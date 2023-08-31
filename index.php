@@ -24,15 +24,28 @@ function getParameters($values) {
                     $productsInterim[] = $product;
 
                     if ($current[$i] !== '-') {
-                        $productsInterim[count($productsInterim) - 1]['code'] = $productsInterim[count($productsInterim) - 1]['code'] . '-' . $current[$i];
+                        $productsInterim[count($productsInterim) - 1]['code'] =
+                            $productsInterim[count($productsInterim) - 1]['code'] . '-' . $current[$i];
                     }
 
                     if (isset($parameters[$key])) {
-                        $productsInterim[count($productsInterim) - 1]['parameters'][$parameters[$key]['name']]['value'] = $parameters[$key]['values'][$i];
-                    }
+                        $description = $parameterGroup = [];
 
-                    if (isset($naming[$key])) {
-                        $productsInterim[count($productsInterim) - 1]['parameters'][$parameters[$key]['name']]['description'] = $naming[$key][$i];
+                        if (isset($naming[$key])) {
+                            foreach ($naming[$key] as $itemKey => $item) {
+                                $description[$itemKey] = $naming[$key][$itemKey][$i];
+                            }
+                        }
+
+                        if (isset($parameters[$key])) {
+                            foreach ($parameters[$key] as $groupKey => $groupValue) {
+                                $productsInterim[count($productsInterim) - 1]['parameters'][] = [
+                                    $description[$groupKey],
+                                    'name' => $groupKey,
+                                    'value' => $parameters[$key][$groupKey][$i],
+                                ];
+                            }
+                        }
                     }
                 }
             }
@@ -40,8 +53,24 @@ function getParameters($values) {
             $products = $productsInterim;
         } else {
             for ($i = 0; $i < count($current); $i++) {
-                $products[]['code'] = $current[$i];
+                $products[$i]['code'] = $current[$i];
                 $products[$i]['parameters'] = [];
+
+                if (isset($parameters[$key])) {
+
+                    $description = [];
+
+                    if (isset($naming[$key])) {
+                        $description = ['description' => $naming[$key][$i]];
+                    }
+
+                    $products[$i]['parameters'][] = [
+                            'name' => $parameters[$key]['name'],
+                            'value' => $parameters[$key]['values'][$i]
+                        ] + $description;
+
+
+                }
             }
         }
 
@@ -70,7 +99,7 @@ foreach ($files as $file) {
             foreach ($data as $columnKey => $columnData) {
                 if (preg_match('#Параметр:(.*)#u', $columnData, $match)) {
                     [$parameter, $name] = explode(':', $match[1]);
-                    $parameters += [$parameter => ['name' => $name, 'values' => []]];
+                    $parameters[$parameter][$name] = [];
                     $position['parameters'][] = $columnKey;
 
                 } elseif (preg_match('#Условное обозначение:(.*)#u', $columnData, $match)) {
@@ -89,11 +118,18 @@ foreach ($files as $file) {
 
                     } elseif (in_array($columnKey, $position['parameters'])) {
                         preg_match('#Параметр:(.*)#u', $header[$columnKey], $match);
-                        [$parameter, $name] = explode(':', $match[1]);
-                        $parameters[$parameter]['values'][] = $columnData;
+                        [$parameter, $name] = explode(':', $match[1], 2);
+                        $parameters[$parameter][$name][] = $columnData;
 
                     } elseif (in_array($columnKey, $position['naming'])) {
                         preg_match('#Условное обозначение:(.*)#u', $header[$columnKey], $match);
+
+                        if (preg_match('#\:#', $match[1])) {
+                            [$columnName, $columnTarget] = explode(":", $match[1], 2);
+                            $naming[$columnName][$columnTarget][] = $columnData;
+                            continue;
+                        }
+
                         $naming[$match[1]][] = $columnData;
                     }
                 }
@@ -113,4 +149,6 @@ foreach ($files as $file) {
     }
 
     file_put_contents($codePath . $fileinfo['filename'] . ".txt", $codes, FILE_APPEND);
+
+    break;
 }
