@@ -6,7 +6,7 @@ $productsPath = __DIR__ . "/products/";
 $resultPath = __DIR__ . "/result/";
 $codePath = __DIR__ . "/code/";
 
-$files = array_diff(scandir($productsPath), ['..', '.']);
+$files = array_diff(scandir($productsPath), ['..', '.', 'good']);
 
 function getParameters($values) {
     global $products;
@@ -19,6 +19,7 @@ function getParameters($values) {
 
         if (!empty($products)) {
             $productsInterim = [];
+
             foreach ($products as $product) {
                 for ($i = 0; $i < count($current); $i++) {
                     $productsInterim[] = $product;
@@ -29,7 +30,7 @@ function getParameters($values) {
                     }
 
                     if (isset($parameters[$key])) {
-                        $description = $parameterGroup = [];
+                        $description = [];
 
                         if (isset($naming[$key])) {
                             foreach ($naming[$key] as $itemKey => $item) {
@@ -37,14 +38,17 @@ function getParameters($values) {
                             }
                         }
 
-                        if (isset($parameters[$key])) {
-                            foreach ($parameters[$key] as $groupKey => $groupValue) {
-                                $productsInterim[count($productsInterim) - 1]['parameters'][] = [
-                                    $description[$groupKey],
-                                    'name' => $groupKey,
-                                    'value' => $parameters[$key][$groupKey][$i],
-                                ];
+                        foreach ($parameters[$key] as $groupKey => $groupValue) {
+                            $group = [
+                                'name' => $groupKey,
+                                'value' => trim($parameters[$key][$groupKey][$i], "\""),
+                            ];
+
+                            if (isset($description[$groupKey])) {
+                                $group['description'] = $description[$groupKey];
                             }
+
+                            $productsInterim[count($productsInterim) - 1]['parameters'][] = $group;
                         }
                     }
                 }
@@ -57,19 +61,26 @@ function getParameters($values) {
                 $products[$i]['parameters'] = [];
 
                 if (isset($parameters[$key])) {
-
                     $description = [];
 
                     if (isset($naming[$key])) {
-                        $description = ['description' => $naming[$key][$i]];
+                        foreach ($naming[$key] as $itemKey => $item) {
+                            $description[$itemKey] = $naming[$key][$itemKey][$i];
+                        }
                     }
 
-                    $products[$i]['parameters'][] = [
-                            'name' => $parameters[$key]['name'],
-                            'value' => $parameters[$key]['values'][$i]
-                        ] + $description;
+                    foreach ($parameters[$key] as $groupKey => $groupValue) {
+                        $group = [
+                            'name' => $groupKey,
+                            'value' => trim($parameters[$key][$groupKey][$i], "\""),
+                        ];
 
+                        if (isset($description[$groupKey])) {
+                            $group['description'] = $description[$groupKey];
+                        }
 
+                        $products[$i]['parameters'][] = $group;
+                    }
                 }
             }
         }
@@ -97,6 +108,9 @@ foreach ($files as $file) {
             $header = $data;
 
             foreach ($data as $columnKey => $columnData) {
+                $columnKey = trim($columnKey, "\"");
+                $columnData = trim($columnData, "\"");
+
                 if (preg_match('#Параметр:(.*)#u', $columnData, $match)) {
                     [$parameter, $name] = explode(':', $match[1]);
                     $parameters[$parameter][$name] = [];
@@ -113,6 +127,9 @@ foreach ($files as $file) {
         } else {
             foreach ($data as $columnKey => $columnData) {
                 if (!empty($columnData)) {
+                    $columnKey = trim($columnKey, "\"");
+                    $columnData = trim($columnData, "\"");
+
                     if (in_array($columnKey, $position['values'])) {
                         $values[$header[$columnKey]][] = $columnData;
 
@@ -123,14 +140,8 @@ foreach ($files as $file) {
 
                     } elseif (in_array($columnKey, $position['naming'])) {
                         preg_match('#Условное обозначение:(.*)#u', $header[$columnKey], $match);
-
-                        if (preg_match('#\:#', $match[1])) {
-                            [$columnName, $columnTarget] = explode(":", $match[1], 2);
-                            $naming[$columnName][$columnTarget][] = $columnData;
-                            continue;
-                        }
-
-                        $naming[$match[1]][] = $columnData;
+                        [$columnName, $columnTarget] = explode(":", $match[1], 2);
+                        $naming[$columnName][$columnTarget][] = $columnData;
                     }
                 }
             }
@@ -149,6 +160,4 @@ foreach ($files as $file) {
     }
 
     file_put_contents($codePath . $fileinfo['filename'] . ".txt", $codes, FILE_APPEND);
-
-    break;
 }
