@@ -1,11 +1,11 @@
-﻿#,Заказной код,Размер,Параметр:Размер:D,Параметр:Размер:D1,Материал,Параметр:Материал:Материал,Условное обозначение:Материал:Материал
-,CBST,6M,Hy-Lok 6mm,Hy-Lok 6mm,-,S316,Нержавеющая сталь
-,,8M,Hy-Lok 8mm,Hy-Lok 8mm,BRAS,BRAS,Латунь
-,,10M,Hy-Lok 10mm,Hy-Lok 10mm,STEL,STEL,Углеродистая сталь
-,,12M,Hy-Lok 12mm,Hy-Lok 12mm,,,
-,,15M,Hy-Lok 15mm,Hy-Lok 15mm,,,
-,,16M,Hy-Lok 16mm,Hy-Lok 16mm,,,
-,,18M,Hy-Lok 18mm,Hy-Lok 18mm,,,
-,,20M,Hy-Lok 20mm,Hy-Lok 20mm,,,
-,,22M,Hy-Lok 22mm,Hy-Lok 22mm,,,
-,,25M,Hy-Lok 25mm,Hy-Lok 25mm,,,
+﻿#;Заказной код;Размер;Параметр:Размер:D;Параметр:Размер:D1;Материал;Параметр:Материал:Материал;Условное обозначение:Материал:Материал
+;CBST;6M;Hy-Lok 6mm;Hy-Lok 6mm;-;S316;Нержавеющая сталь
+;;8M;Hy-Lok 8mm;Hy-Lok 8mm;BRAS;BRAS;Латунь
+;;10M;Hy-Lok 10mm;Hy-Lok 10mm;STEL;STEL;Углеродистая сталь
+;;12M;Hy-Lok 12mm;Hy-Lok 12mm;;;
+;;15M;Hy-Lok 15mm;Hy-Lok 15mm;;;
+;;16M;Hy-Lok 16mm;Hy-Lok 16mm;;;
+;;18M;Hy-Lok 18mm;Hy-Lok 18mm;;;
+;;20M;Hy-Lok 20mm;Hy-Lok 20mm;;;
+;;22M;Hy-Lok 22mm;Hy-Lok 22mm;;;
+;;25M;Hy-Lok 25mm;Hy-Lok 25mm;;;
