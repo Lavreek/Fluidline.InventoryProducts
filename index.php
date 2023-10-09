@@ -9,10 +9,29 @@ $codePath = __DIR__ . "/code/";
 //$files = array_diff(scandir($productsPath), ['..', '.', 'good']);
 $files = ["105.csv"];
 
+function setDescription($key, $index) {
+    global $naming;
+
+    if (isset($naming[$key])) {
+        foreach ($naming[$key] as $itemKey => $item) {
+            if (isset($naming[$key][$itemKey][$index])) {
+                $description = $naming[$key][$itemKey][$index];
+
+                if ($description === "-") {
+                    return null;
+                }
+
+                return $naming[$key][$itemKey][$index];
+            }
+        }
+    }
+
+    return null;
+}
+
 function getParameters($values) {
     global $products;
     global $parameters;
-    global $naming;
 
     if (current($values)) {
         $key = key($values);
@@ -31,15 +50,7 @@ function getParameters($values) {
                     }
 
                     if (isset($parameters[$key])) {
-                        $description = [];
-
-                        if (isset($naming[$key])) {
-                            foreach ($naming[$key] as $itemKey => $item) {
-                                if (isset($naming[$key][$itemKey][$i])) {
-                                    $description[$itemKey] = $naming[$key][$itemKey][$i];
-                                }
-                            }
-                        }
+                        $description = setDescription($key, $i);
 
                         foreach ($parameters[$key] as $groupKey => $groupValue) {
                             if (!isset($parameters[$key][$groupKey][$i])) {
@@ -53,8 +64,8 @@ function getParameters($values) {
                                     'value' => trim($parameters[$key][$groupKey][$i], "\""),
                                 ];
 
-                                if (isset($description[$groupKey])) {
-                                    $group['description'] = $description[$groupKey];
+                                if (!is_null($description)) {
+                                    $group['description'] = $description;
                                 }
                             }
 
@@ -71,15 +82,7 @@ function getParameters($values) {
                 $products[$i]['parameters'] = [];
 
                 if (isset($parameters[$key])) {
-                    $description = [];
-
-                    if (isset($naming[$key])) {
-                        foreach ($naming[$key] as $itemKey => $item) {
-                            if (isset($naming[$key][$itemKey][$i])) {
-                                $description[$itemKey] = $naming[$key][$itemKey][$i];
-                            }
-                        }
-                    }
+                    $description = setDescription($key, $i);
 
                     foreach ($parameters[$key] as $groupKey => $groupValue) {
                         $group = [
@@ -87,16 +90,14 @@ function getParameters($values) {
                             'value' => trim($parameters[$key][$groupKey][$i], "\""),
                         ];
 
-                        if (isset($description[$groupKey])) {
-                            $group['description'] = $description[$groupKey];
+                        if (!is_null($description)) {
+                            $group['description'] = $description;
                         }
 
                         $products[$i]['parameters'][] = $group;
                     }
                 }
             }
-            var_dump($products);
-            die();
         }
 
         next($values);
@@ -152,10 +153,7 @@ foreach ($files as $file) {
                 } elseif (preg_match('#Условное обозначение:(.*)#u', $columnData, $match)) {
                     $position['naming'][] = $columnKey;
 
-                } elseif (
-                    preg_match('#Условие:(.*)#u', $columnData, $match) ||
-                    preg_match('#ЕСЛИ\((.+)\)=\((.+)\)#u', $columnData, $match)
-                ) {
+                } elseif (preg_match('#Условие:(.*)#u', $columnData, $match)) {
                     $position['conditions'][] = $columnKey;
                     $conditions[$match[1]] = [];
 
@@ -194,8 +192,7 @@ foreach ($files as $file) {
                                 $conditions[$conditionValue][] = $exp;
                             }
 
-                            var_dump($conditions);
-                            die('here');
+                            $conditions[$conditionValue]['result'] = $match[2];
                         }
                     }
                 }
@@ -206,6 +203,55 @@ foreach ($files as $file) {
     }
 
     getParameters($values);
+
+    function getCondition($conditionType, $parameterValue, $neededValue) {
+        switch ($conditionType) {
+            case '==' : {
+                if ($parameterValue == $neededValue) {
+                    return true;
+                }
+                break;
+            }
+        }
+
+        return false;
+    }
+
+    function checkCondition($productParameters, $conditionSet) {
+        unset($conditionSet['result']);
+
+        foreach ($conditionSet as $condition) {
+            preg_match('#(.*)(==|!=|>=|<=)(.*)#u', $condition, $match);
+
+            $check = false;
+
+            foreach ($productParameters as $parameter) {
+                if ($parameter['name'] === $match[1]) {
+                    $check = getCondition($match[2], $parameter['value'], $match[3]);
+                }
+            }
+
+            if ($check) {
+                return true;
+            }
+
+            return null;
+        }
+    }
+
+    foreach ($products as $productsIndex => $productsElement) {
+        foreach ($conditions as $conditionKey => $conditionSet) {
+            $condition = checkCondition($productsElement['parameters'], $conditionSet);
+
+            if ($condition) {
+                $products[$productsIndex]['parameters'][] = [
+                    'name' => $conditionKey,
+                    'value' => $conditionSet['result'],
+                ];
+            }
+        }
+    }
+
     file_put_contents($resultPath . $fileinfo['filename'] . ".json", json_encode($products));
 
     $codes = "";
