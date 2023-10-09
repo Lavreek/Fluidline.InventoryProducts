@@ -1,12 +1,13 @@
 <?php
 
-ini_set('memory_limit', '256M');
+ini_set('memory_limit', '1024M');
 
-$productsPath = __DIR__ . "/products/";
+$productsPath = __DIR__ . "/inventory/Клапаны/";
 $resultPath = __DIR__ . "/result/";
 $codePath = __DIR__ . "/code/";
 
-$files = array_diff(scandir($productsPath), ['..', '.', 'good']);
+//$files = array_diff(scandir($productsPath), ['..', '.', 'good']);
+$files = ["105.csv"];
 
 function getParameters($values) {
     global $products;
@@ -34,18 +35,27 @@ function getParameters($values) {
 
                         if (isset($naming[$key])) {
                             foreach ($naming[$key] as $itemKey => $item) {
-                                $description[$itemKey] = $naming[$key][$itemKey][$i];
+                                if (isset($naming[$key][$itemKey][$i])) {
+                                    $description[$itemKey] = $naming[$key][$itemKey][$i];
+                                }
                             }
                         }
 
                         foreach ($parameters[$key] as $groupKey => $groupValue) {
-                            $group = [
-                                'name' => $groupKey,
-                                'value' => trim($parameters[$key][$groupKey][$i], "\""),
-                            ];
+                            if (!isset($parameters[$key][$groupKey][$i])) {
+                                $group = [
+                                    'name' => $groupKey,
+                                    'value' => "",
+                                ];
+                            } else {
+                                $group = [
+                                    'name' => $groupKey,
+                                    'value' => trim($parameters[$key][$groupKey][$i], "\""),
+                                ];
 
-                            if (isset($description[$groupKey])) {
-                                $group['description'] = $description[$groupKey];
+                                if (isset($description[$groupKey])) {
+                                    $group['description'] = $description[$groupKey];
+                                }
                             }
 
                             $productsInterim[count($productsInterim) - 1]['parameters'][] = $group;
@@ -65,7 +75,9 @@ function getParameters($values) {
 
                     if (isset($naming[$key])) {
                         foreach ($naming[$key] as $itemKey => $item) {
-                            $description[$itemKey] = $naming[$key][$itemKey][$i];
+                            if (isset($naming[$key][$itemKey][$i])) {
+                                $description[$itemKey] = $naming[$key][$itemKey][$i];
+                            }
                         }
                     }
 
@@ -83,6 +95,8 @@ function getParameters($values) {
                     }
                 }
             }
+            var_dump($products);
+            die();
         }
 
         next($values);
@@ -95,11 +109,30 @@ foreach ($files as $file) {
     $fileResource = fopen($productsPath . $file, 'r');
 
     $row = 0;
-    $header = $position = $values = $parameters = $naming = $products = [];
+    $header = $position = $values = $parameters = $naming = $products = $conditions = [];
 
-    while ($data = fgetcsv($fileResource, separator: ';')) {
+    $delimiter = false;
+    $tries = 0;
+
+    while (!$delimiter) {
+        $prev = stream_get_contents($fileResource,1);
+
+        if ($prev == '#') {
+            $delimiter = stream_get_contents($fileResource,1);
+        }
+
+        if ($tries > 10) {
+            return [];
+        }
+
+        $tries++;
+    }
+
+    rewind($fileResource);
+
+    while ($data = fgetcsv($fileResource, separator: $delimiter)) {
         if (!preg_match('#\##', $data[0]) and $row === 0) {
-            throw new Exception("\n\n\tFirst column must be empty with heading \"#\"\n\n");
+            throw new \Exception("\n\n\tFirst column must be empty with heading \"#\"\n\n");
         }
 
         unset($data[0]);
@@ -119,7 +152,14 @@ foreach ($files as $file) {
                 } elseif (preg_match('#Условное обозначение:(.*)#u', $columnData, $match)) {
                     $position['naming'][] = $columnKey;
 
-                } else {
+                } elseif (
+                    preg_match('#Условие:(.*)#u', $columnData, $match) ||
+                    preg_match('#ЕСЛИ\((.+)\)=\((.+)\)#u', $columnData, $match)
+                ) {
+                    $position['conditions'][] = $columnKey;
+                    $conditions[$match[1]] = [];
+
+                } else { // Добавление основного порядка параметров продукции
                     $values += [$columnData => []];
                     $position['values'][] = $columnKey;
                 }
@@ -142,6 +182,21 @@ foreach ($files as $file) {
                         preg_match('#Условное обозначение:(.*)#u', $header[$columnKey], $match);
                         [$columnName, $columnTarget] = explode(":", $match[1], 2);
                         $naming[$columnName][$columnTarget][] = $columnData;
+
+                    } elseif (in_array($columnKey, $position['conditions'])) {
+                        preg_match('#ЕСЛИ\((.+)\)=\((.+)\)#u', $columnData, $match);
+                        [$conditionKey, $conditionValue] = explode(":", $header[$columnKey]);
+
+                        if (isset($match[0])) {
+                            $conditionsExplode = explode('&', $match[1]);
+
+                            foreach ($conditionsExplode as $exp) {
+                                $conditions[$conditionValue][] = $exp;
+                            }
+
+                            var_dump($conditions);
+                            die('here');
+                        }
                     }
                 }
             }
@@ -159,5 +214,5 @@ foreach ($files as $file) {
         $codes .= $product['code'] . "\n";
     }
 
-    file_put_contents($codePath . $fileinfo['filename'] . ".txt", $codes, FILE_APPEND);
+//    file_put_contents($codePath . $fileinfo['filename'] . ".txt", $codes, FILE_APPEND);
 }
