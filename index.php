@@ -234,9 +234,9 @@ foreach ($files as $file) {
             if ($check) {
                 return true;
             }
-
-            return null;
         }
+
+        return null;
     }
 
     foreach ($products as $productsIndex => $productsElement) {
