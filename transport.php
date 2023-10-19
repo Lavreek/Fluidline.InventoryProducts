@@ -1,6 +1,7 @@
 <?php
 
-/**
+/** Get parameters
+ *
  * SELECT msc.pagetitle, ptc.tmplvarid, ptd.value  FROM product_tmplvar_contentvalues AS ptc
  * LEFT JOIN product_tmplvar_data AS ptd
  * ON ptc.value = ptd.id
@@ -8,6 +9,17 @@
  * ON ptc.contentid = msc.id WHERE
  * `contentid` IN (SELECT `id` FROM `modx_site_content`
  * WHERE `parent` = 26128)
+ */
+
+/** Get price
+ *
+ * SELECT msc.pagetitle, ptc.value FROM product_tmplvar_contentvalues AS ptc
+ * LEFT JOIN product_tmplvar_data AS ptd
+ * ON ptc.value = ptd.id
+ * INNER JOIN modx_site_content AS msc
+ * ON ptc.contentid = msc.id WHERE
+ * `contentid` IN (SELECT `id` FROM `modx_site_content`
+ * WHERE `parent` = 26128) AND tmplvarid = 15
  */
 
 $options = getopt("f:");
