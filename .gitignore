@@ -1,7 +1,15 @@
+# IDE
 /.idea
+
+# Lock files
+*.lock
+*~lock*
+
+# Gen files
+*.gen
+
+# Work repositories
 /revert/*
 /serialized/*
+/locks/*
 /logs/*
-/locks/
-*~lock*
-*.gen
