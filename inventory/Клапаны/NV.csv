@@ -1,0 +1,637 @@
+#,Заказной код,Параметр:Заказной код:Подсоединение,Параметр:Заказной код:Давление,Параметр:Заказной код:Cv,Параметр:Заказной код:Ду,Условное обозначение:Заказной код:Подсоединение,Параметр:Заказной код:Температура минимальная,Параметр:Заказной код:Температура максимальная,Параметр:Заказной код:Материал уплотнения сальника,Параметр:Заказной код:Форма корпуса,Параметр:Заказной код:Тип иглы
+,NV1-H-3M,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-6M,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-8M,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-10M,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-12M,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12M,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-14M,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-16M,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-18M,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-20M,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-2T,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-4T,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-6T,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-8T,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-8T,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-10T,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12T,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-2N,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-2R,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-2N,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-2R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-4N,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-4R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-6N,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-6R,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-8N,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-8R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-2G,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-4G,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-8G,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-12G,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-2N,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-2R,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-2N,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-2R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-4N,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-4R,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-4N,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-4R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-6N,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-6R,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-8N,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-8R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-A-3M,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-6M,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-8M,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-10M,Hy-Lok 8mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-12M,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12M,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-14M,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-16M,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-18M,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-20M,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-A-2T,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-4T,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-6T,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-8T,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-8T,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-10T,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12T,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-A-2N,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-A-2R,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-A-2N,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-A-2R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-A-4N,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-A-4R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-6N,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-6R,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-8N,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-8R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-A-2G,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-A-4G,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-8G,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-12G,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-A-2N,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-A-2R,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-2N,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-2R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-4N,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-4R,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-4N,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-4R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-6N,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-6R,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-A-8N,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-A-8R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-3M-PK,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-6M-PK,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-8M-PK,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-10M-PK,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-12M-PK,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12M-PK,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-14M-PK,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-16M-PK,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-18M-PK,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-20M-PK,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-2T-PK,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-4T-PK,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-6T-PK,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-8T-PK,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-8T-PK,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-10T-PK,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12T-PK,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-2N-PK,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-2R-PK,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-2N-PK,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-2R-PK,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-4N-PK,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-4R-PK,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-6N-PK,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-6R-PK,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-8N-PK,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-8R-PK,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-2G-PK,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-4G-PK,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-8G-PK,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-12G-PK,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-2N-PK,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-2R-PK,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-2N-PK,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-2R-PK,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-4N-PK,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-4R-PK,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-4N-PK,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-4R-PK,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-6N-PK,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-6R-PK,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-8N-PK,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-8R-PK,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-A-3M-PK,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-6M-PK,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-8M-PK,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-10M-PK,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-12M-PK,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12M-PK,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-14M-PK,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-16M-PK,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-18M-PK,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-20M-PK,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-A-2T-PK,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-4T-PK,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-6T-PK,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-8T-PK,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-8T-PK,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-10T-PK,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12T-PK,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-A-2N-PK,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-F-A-2R-PK,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-A-2N-PK,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-A-2R-PK,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-A-4N-PK,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-A-4R-PK,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-6N-PK,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-6R-PK,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-8N-PK,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-8R-PK,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-F-A-2G-PK,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-F-A-4G-PK,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-8G-PK,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-F-A-12G-PK,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-A-2N-PK,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-M-A-2R-PK,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-2N-PK,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-2R-PK,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-4N-PK,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-M-A-4R-PK,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-4N-PK,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-4R-PK,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-6N-PK,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-M-A-6R-PK,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-A-8N-PK,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-M-A-8R-PK,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV1-H-3M-R,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-6M-R,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-8M-R,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-10M-R,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-12M-R,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12M-R,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-14M-R,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-16M-R,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-18M-R,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-20M-R,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-2T-R,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-4T-R,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-6T-R,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-8T-R,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-8T-R,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-10T-R,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12T-R,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-2N-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-2R-R,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-2N-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-2R-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-4N-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-4R-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-6N-R,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-6R-R,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-8N-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-8R-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-2G-R,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-4G-R,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-8G-R,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-12G-R,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-2N-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-2R-R,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-2N-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-2R-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-4N-R,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-4R-R,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-4N-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-4R-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-6N-R,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-6R-R,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-8N-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-8R-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-A-3M-R,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-6M-R,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-8M-R,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-10M-R,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-12M-R,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12M-R,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-14M-R,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-16M-R,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-18M-R,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-20M-R,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-A-2T-R,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-4T-R,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-6T-R,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-8T-R,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-8T-R,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-10T-R,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12T-R,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-A-2N-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-A-2R-R,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-A-2N-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-A-2R-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-A-4N-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-A-4R-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-6N-R,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-6R-R,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-8N-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-8R-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-A-2G-R,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-A-4G-R,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-8G-R,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-12G-R,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-A-2N-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-A-2R-R,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-2N-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-2R-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-4N-R,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-4R-R,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-4N-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-4R-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-6N-R,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-6R-R,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-A-8N-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-A-8R-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-3M-PK-R,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-6M-PK-R,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-8M-PK-R,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-10M-PK-R,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-12M-PK-R,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12M-PK-R,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-14M-PK-R,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-16M-PK-R,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-18M-PK-R,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-20M-PK-R,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-2T-PK-R,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-4T-PK-R,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-6T-PK-R,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-8T-PK-R,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-8T-PK-R,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-10T-PK-R,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12T-PK-R,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-2N-PK-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-2R-PK-R,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-2N-PK-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-2R-PK-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-4N-PK-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-4R-PK-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-6N-PK-R,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-6R-PK-R,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-8N-PK-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-8R-PK-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-2G-PK-R,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-4G-PK-R,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-8G-PK-R,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-12G-PK-R,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-2N-PK-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-2R-PK-R,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-2N-PK-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-2R-PK-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-4N-PK-R,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-4R-PK-R,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-4N-PK-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-4R-PK-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-6N-PK-R,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-6R-PK-R,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-8N-PK-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-8R-PK-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-A-3M-PK-R,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-6M-PK-R,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-8M-PK-R,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-10M-PK-R,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-12M-PK-R,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12M-PK-R,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-14M-PK-R,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-16M-PK-R,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-18M-PK-R,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-20M-PK-R,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-A-2T-PK-R,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-4T-PK-R,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-6T-PK-R,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-8T-PK-R,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-8T-PK-R,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-10T-PK-R,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12T-PK-R,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-A-2N-PK-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-F-A-2R-PK-R,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-A-2N-PK-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-A-2R-PK-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-A-4N-PK-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-A-4R-PK-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-6N-PK-R,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-6R-PK-R,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-8N-PK-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-8R-PK-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-F-A-2G-PK-R,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-F-A-4G-PK-R,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-8G-PK-R,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-F-A-12G-PK-R,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-A-2N-PK-R,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-M-A-2R-PK-R,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-2N-PK-R,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-2R-PK-R,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-4N-PK-R,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-M-A-4R-PK-R,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-4N-PK-R,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-4R-PK-R,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-6N-PK-R,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-M-A-6R-PK-R,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-A-8N-PK-R,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-M-A-8R-PK-R,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV1-H-3M-S,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-6M-S,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-8M-S,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-10M-S,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-12M-S,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12M-S,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-14M-S,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-16M-S,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-18M-S,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-20M-S,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-2T-S,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-4T-S,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-6T-S,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-8T-S,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-8T-S,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-10T-S,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12T-S,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-2N-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-2R-S,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-2N-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-2R-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-4N-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-4R-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-6N-S,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-6R-S,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-8N-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-8R-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-2G-S,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-4G-S,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-8G-S,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-12G-S,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-2N-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-2R-S,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-2N-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-2R-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-4N-S,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-4R-S,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-4N-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-4R-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-6N-S,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-6R-S,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-8N-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-8R-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-A-3M-S,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-6M-S,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-8M-S,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-10M-S,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-12M-S,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12M-S,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-14M-S,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-16M-S,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-18M-S,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-20M-S,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-A-2T-S,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-4T-S,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-6T-S,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-8T-S,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-8T-S,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-10T-S,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12T-S,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-A-2N-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-A-2R-S,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-A-2N-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-A-2R-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-A-4N-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-A-4R-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-6N-S,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-6R-S,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-8N-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-8R-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-A-2G-S,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-A-4G-S,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-8G-S,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-12G-S,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-A-2N-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-A-2R-S,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-2N-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-2R-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-4N-S,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-4R-S,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-4N-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-4R-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-6N-S,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-6R-S,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-A-8N-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-A-8R-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-3M-PK-S,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-6M-PK-S,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-8M-PK-S,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-10M-PK-S,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-12M-PK-S,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12M-PK-S,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-14M-PK-S,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-16M-PK-S,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-18M-PK-S,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-20M-PK-S,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-2T-PK-S,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-4T-PK-S,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-6T-PK-S,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-8T-PK-S,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-8T-PK-S,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-10T-PK-S,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12T-PK-S,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-2N-PK-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-2R-PK-S,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-2N-PK-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-2R-PK-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-4N-PK-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-4R-PK-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-6N-PK-S,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-6R-PK-S,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-8N-PK-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-8R-PK-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-2G-PK-S,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-4G-PK-S,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-8G-PK-S,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-12G-PK-S,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-2N-PK-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-2R-PK-S,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-2N-PK-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-2R-PK-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-4N-PK-S,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-4R-PK-S,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-4N-PK-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-4R-PK-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-6N-PK-S,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-6R-PK-S,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-8N-PK-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-8R-PK-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-A-3M-PK-S,Hy-Lok 3mm,414 бар,"0,09",2,Hy-Lok 3mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-6M-PK-S,Hy-Lok 6mm,414 бар,"0,37","4,3",Hy-Lok 6mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-8M-PK-S,Hy-Lok 8mm,414 бар,"0,37","4,3",Hy-Lok 8mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-10M-PK-S,Hy-Lok 10mm,414 бар,"0,73","6,3",Hy-Lok 10mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-12M-PK-S,Hy-Lok 12mm,414 бар,"0,73","6,3",Hy-Lok 12mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12M-PK-S,Hy-Lok 12mm,414 бар,"1,8","9,5",Hy-Lok 12mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-14M-PK-S,Hy-Lok 14mm,414 бар,"1,8","9,5",Hy-Lok 14mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-16M-PK-S,Hy-Lok 16mm,414 бар,"1,8","9,5",Hy-Lok 16mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-18M-PK-S,Hy-Lok 18mm,414 бар,"1,8","9,5",Hy-Lok 18mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-20M-PK-S,Hy-Lok 20mm,414 бар,"1,8","9,5",Hy-Lok 20mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-H-A-2T-PK-S,Hy-Lok 1/8,414 бар,"0,09",2,Hy-Lok 1/8,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-4T-PK-S,Hy-Lok 1/4,414 бар,"0,37","4,3",Hy-Lok 1/4,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-6T-PK-S,Hy-Lok 3/8,414 бар,"0,73","6,3",Hy-Lok 3/8,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-8T-PK-S,Hy-Lok 1/2,414 бар,"0,73","6,3",Hy-Lok 1/2,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-8T-PK-S,Hy-Lok 1/2,414 бар,"1,8","9,5",Hy-Lok 1/2,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-10T-PK-S,Hy-Lok 5/8,414 бар,"1,8","9,5",Hy-Lok 5/8,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12T-PK-S,Hy-Lok 3/4,414 бар,"1,8","9,5",Hy-Lok 3/4,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-A-2N-PK-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-F-A-2R-PK-S,RT 1/8,414 бар,"0,09",2,RT 1/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-A-2N-PK-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-A-2R-PK-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-A-4N-PK-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-A-4R-PK-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-6N-PK-S,NPT 3/8,414 бар,"1,8","9,5",NPT 3/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-6R-PK-S,RT 3/8,414 бар,"1,8","9,5",RT 3/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-8N-PK-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-8R-PK-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-F-A-2G-PK-S,G 1/8,414 бар,"0,37","4,3",G 1/8 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-F-A-4G-PK-S,G 1/4,414 бар,"0,73","6,3",G 1/4 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-8G-PK-S,G 1/2,414 бар,"1,8","9,5",G 1/2 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-F-A-12G-PK-S,G 3/4,414 бар,"1,8","9,5",G 3/4 внутр.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-A-2N-PK-S,NPT 1/8,414 бар,"0,09",2,NPT 1/8 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV1-M-A-2R-PK-S,RT 1/8,414 бар,"0,09",2,RT 1/8 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-2N-PK-S,NPT 1/8,414 бар,"0,37","4,3",NPT 1/8 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-2R-PK-S,RT 1/8,414 бар,"0,37","4,3",RT 1/8 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-4N-PK-S,NPT 1/4,414 бар,"0,37","4,3",NPT 1/4 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-M-A-4R-PK-S,RT 1/4,414 бар,"0,37","4,3",RT 1/4 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-4N-PK-S,NPT 1/4,414 бар,"0,73","6,3",NPT 1/4 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-4R-PK-S,RT 1/4,414 бар,"0,73","6,3",RT 1/4 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-6N-PK-S,NPT 3/8,414 бар,"0,73","6,3",NPT 3/8 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-M-A-6R-PK-S,RT 3/8,414 бар,"0,73","6,3",RT 3/8 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-A-8N-PK-S,NPT 1/2,414 бар,"1,8","9,5",NPT 1/2 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-M-A-8R-PK-S,RT 1/2,414 бар,"1,8","9,5",RT 1/2 наруж.,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-6M-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-8M-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-10M-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-12M-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12M-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-6M-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-8M-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-10M-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-12M-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12M-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-6M-PK-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-8M-PK-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-10M-PK-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-12M-PK-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12M-PK-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-6M-PK-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-8M-PK-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-10M-PK-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-12M-PK-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12M-PK-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-6M-R-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-8M-R-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-10M-R-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-12M-R-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12M-R-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-6M-R-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-8M-R-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-10M-R-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-12M-R-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12M-R-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-6M-PK-R-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-8M-PK-R-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-10M-PK-R-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-12M-PK-R-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12M-PK-R-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-6M-PK-R-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-8M-PK-R-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-10M-PK-R-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-12M-PK-R-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12M-PK-R-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-6M-S-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-8M-S-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-10M-S-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-12M-S-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12M-S-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-6M-S-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-8M-S-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-10M-S-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-12M-S-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12M-S-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-6M-PK-S-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-8M-PK-S-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-10M-PK-S-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-12M-PK-S-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12M-PK-S-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-6M-PK-S-SAPW,под приварку 6mm,414 бар,"0,37","4,3",под приварку 6mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-8M-PK-S-SAPW,под приварку 8mm,414 бар,"0,37","4,3",под приварку 8mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-10M-PK-S-SAPW,под приварку 10mm,414 бар,"0,73","6,3",под приварку 10mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-12M-PK-S-SAPW,под приварку 12mm,414 бар,"0,73","6,3",под приварку 12mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12M-PK-S-SAPW,под приварку 12mm,414 бар,"1,8","9,5",под приварку 12mm,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-6M-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-8M-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-10M-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-12M-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12M-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-6M-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-8M-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-10M-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-12M-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12M-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-6M-PK-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-8M-PK-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-10M-PK-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-12M-PK-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-12M-PK-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-6M-PK-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-A-8M-PK-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-10M-PK-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV3-H-A-12M-PK-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV4-H-A-12M-PK-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,V-образная (стандарт)<br><img src=assets/images/NV-needle-V.jpg>
+,NV2-H-6M-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-8M-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-10M-R-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-12M-R-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12M-R-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-6M-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-8M-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-10M-R-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-12M-R-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12M-R-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-6M-PK-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-8M-PK-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-10M-PK-R-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-12M-PK-R-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-12M-PK-R-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-6M-PK-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-A-8M-PK-R-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-10M-PK-R-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV3-H-A-12M-PK-R-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV4-H-A-12M-PK-R-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,232°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,R-Тонкой регулировки<br><img src=assets/images/NV-needle-R.jpg>
+,NV2-H-6M-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-8M-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-10M-S-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-12M-S-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12M-S-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,93°С,PTFE (стандарт),Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-6M-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-8M-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-10M-S-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-12M-S-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12M-S-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,93°С,PTFE (стандарт),Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-6M-PK-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-8M-PK-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-10M-PK-S-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-12M-PK-S-SAPW-8P,под приварку 1/2,414 бар,"0,73","6,3",под приварку 1/2,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-12M-PK-S-SAPW-8P,под приварку 1/2,414 бар,"1,8","9,5",под приварку 1/2,-54°C,93°С,PEEK,Проходной<br><img src=assets/images/NV_H_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-6M-PK-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV2-H-A-8M-PK-S-SAPW-4P,под приварку 1/4,414 бар,"0,37","4,3",под приварку 1/4,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-10M-PK-S-SAPW-4P,под приварку 1/4,414 бар,"0,73","6,3",под приварку 1/4,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV3-H-A-12M-PK-S-SAPW-8P,под приварку 1/2,414 бар,"1,8","6,3",под приварку 1/2,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
+,NV4-H-A-12M-PK-S-SAPW-8P,под приварку 1/2,414 бар,"0,73","9,5",под приварку 1/2,-54°C,93°С,PEEK,Угловой<br><img src=assets/images/NV_HA_s100.jpg>,S-С мягким уплотнителем<br><img src=assets/images/NV-needle-S.jpg>
