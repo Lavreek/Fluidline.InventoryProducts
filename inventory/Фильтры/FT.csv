@@ -1,0 +1,229 @@
+#,Заказной код,Параметр:Заказной код:Подсоединение,Параметр:Заказной код:Материал,Параметр:Заказной код:Фильтрующий элемент
+,FT-H-3M-WF,Hy-Lok 3mm,S316,без фильтрующего элемента
+,FT-H-6M-WF,Hy-Lok 6mm,S316,без фильтрующего элемента
+,FT-H-8M-WF,Hy-Lok 8mm,S316,без фильтрующего элемента
+,FT-H-10M-WF,Hy-Lok 10mm,S316,без фильтрующего элемента
+,FT-H-12M-WF,Hy-Lok 12mm,S316,без фильтрующего элемента
+,FT-H-2T-WF,Hy-Lok 1/8,S316,без фильтрующего элемента
+,FT-H-4T-WF,Hy-Lok 1/4,S316,без фильтрующего элемента
+,FT-H-6T-WF,Hy-Lok 3/8,S316,без фильтрующего элемента
+,FT-H-8T-WF,Hy-Lok 1/2,S316,без фильтрующего элемента
+,FT-F-2N-WF,NPT 1/8 внутр.,S316,без фильтрующего элемента
+,FT-F-2R-WF,RT 1/8 внутр.,S316,без фильтрующего элемента
+,FT-F-4N-WF,NPT 1/4 внутр.,S316,без фильтрующего элемента
+,FT-F-4R-WF,RT 1/4 внутр.,S316,без фильтрующего элемента
+,FT-F-6N-WF,NPT 3/8 внутр.,S316,без фильтрующего элемента
+,FT-F-6R-WF,RT 3/8 внутр.,S316,без фильтрующего элемента
+,FT-F-8N-WF,NPT 1/2 внутр.,S316,без фильтрующего элемента
+,FT-F-8R-WF,RT 1/2 внутр.,S316,без фильтрующего элемента
+,FT-M-4N-WF,NPT 1/4 наруж.,S316,без фильтрующего элемента
+,FT-M-4R-WF,RT 1/4 наруж.,S316,без фильтрующего элемента
+,FT-H-3M-WF-BRAS,Hy-Lok 3mm,BRAS,без фильтрующего элемента
+,FT-H-6M-WF-BRAS,Hy-Lok 6mm,BRAS,без фильтрующего элемента
+,FT-H-8M-WF-BRAS,Hy-Lok 8mm,BRAS,без фильтрующего элемента
+,FT-H-10M-WF-BRAS,Hy-Lok 10mm,BRAS,без фильтрующего элемента
+,FT-H-12M-WF-BRAS,Hy-Lok 12mm,BRAS,без фильтрующего элемента
+,FT-H-2T-WF-BRAS,Hy-Lok 1/8,BRAS,без фильтрующего элемента
+,FT-H-4T-WF-BRAS,Hy-Lok 1/4,BRAS,без фильтрующего элемента
+,FT-H-6T-WF-BRAS,Hy-Lok 3/8,BRAS,без фильтрующего элемента
+,FT-H-8T-WF-BRAS,Hy-Lok 1/2,BRAS,без фильтрующего элемента
+,FT-F-2N-WF-BRAS,NPT 1/8 внутр.,BRAS,без фильтрующего элемента
+,FT-F-2R-WF-BRAS,RT 1/8 внутр.,BRAS,без фильтрующего элемента
+,FT-F-4N-WF-BRAS,NPT 1/4 внутр.,BRAS,без фильтрующего элемента
+,FT-F-4R-WF-BRAS,RT 1/4 внутр.,BRAS,без фильтрующего элемента
+,FT-F-6N-WF-BRAS,NPT 3/8 внутр.,BRAS,без фильтрующего элемента
+,FT-F-6R-WF-BRAS,RT 3/8 внутр.,BRAS,без фильтрующего элемента
+,FT-F-8N-WF-BRAS,NPT 1/2 внутр.,BRAS,без фильтрующего элемента
+,FT-F-8R-WF-BRAS,RT 1/2 внутр.,BRAS,без фильтрующего элемента
+,FT-M-4N-WF-BRAS,NPT 1/4 наруж.,BRAS,без фильтрующего элемента
+,FT-M-4R-WF-BRAS,RT 1/4 наруж.,BRAS,без фильтрующего элемента
+,FT-H-3M-1,Hy-Lok 3mm,S316,1 микрон
+,FT-H-6M-1,Hy-Lok 6mm,S316,1 микрон
+,FT-H-8M-1,Hy-Lok 8mm,S316,1 микрон
+,FT-H-10M-1,Hy-Lok 10mm,S316,1 микрон
+,FT-H-12M-1,Hy-Lok 12mm,S316,1 микрон
+,FT-H-2T-1,Hy-Lok 1/8,S316,1 микрон
+,FT-H-4T-1,Hy-Lok 1/4,S316,1 микрон
+,FT-H-6T-1,Hy-Lok 3/8,S316,1 микрон
+,FT-H-8T-1,Hy-Lok 1/2,S316,1 микрон
+,FT-F-2N-1,NPT 1/8 внутр.,S316,1 микрон
+,FT-F-2R-1,RT 1/8 внутр.,S316,1 микрон
+,FT-F-4N-1,NPT 1/4 внутр.,S316,1 микрон
+,FT-F-4R-1,RT 1/4 внутр.,S316,1 микрон
+,FT-F-6N-1,NPT 3/8 внутр.,S316,1 микрон
+,FT-F-6R-1,RT 3/8 внутр.,S316,1 микрон
+,FT-F-8N-1,NPT 1/2 внутр.,S316,1 микрон
+,FT-F-8R-1,RT 1/2 внутр.,S316,1 микрон
+,FT-M-4N-1,NPT 1/4 наруж.,S316,1 микрон
+,FT-M-4R-1,RT 1/4 наруж.,S316,1 микрон
+,FT-H-3M-1-BRAS,Hy-Lok 3mm,BRAS,1 микрон
+,FT-H-6M-1-BRAS,Hy-Lok 6mm,BRAS,1 микрон
+,FT-H-8M-1-BRAS,Hy-Lok 8mm,BRAS,1 микрон
+,FT-H-10M-1-BRAS,Hy-Lok 10mm,BRAS,1 микрон
+,FT-H-12M-1-BRAS,Hy-Lok 12mm,BRAS,1 микрон
+,FT-H-2T-1-BRAS,Hy-Lok 1/8,BRAS,1 микрон
+,FT-H-4T-1-BRAS,Hy-Lok 1/4,BRAS,1 микрон
+,FT-H-6T-1-BRAS,Hy-Lok 3/8,BRAS,1 микрон
+,FT-H-8T-1-BRAS,Hy-Lok 1/2,BRAS,1 микрон
+,FT-F-2N-1-BRAS,NPT 1/8 внутр.,BRAS,1 микрон
+,FT-F-2R-1-BRAS,RT 1/8 внутр.,BRAS,1 микрон
+,FT-F-4N-1-BRAS,NPT 1/4 внутр.,BRAS,1 микрон
+,FT-F-4R-1-BRAS,RT 1/4 внутр.,BRAS,1 микрон
+,FT-F-6N-1-BRAS,NPT 3/8 внутр.,BRAS,1 микрон
+,FT-F-6R-1-BRAS,RT 3/8 внутр.,BRAS,1 микрон
+,FT-F-8N-1-BRAS,NPT 1/2 внутр.,BRAS,1 микрон
+,FT-F-8R-1-BRAS,RT 1/2 внутр.,BRAS,1 микрон
+,FT-M-4N-1-BRAS,NPT 1/4 наруж.,BRAS,1 микрон
+,FT-M-4R-1-BRAS,RT 1/4 наруж.,BRAS,1 микрон
+,FT-H-3M-10,Hy-Lok 3mm,S316,10 микрон
+,FT-H-6M-10,Hy-Lok 6mm,S316,10 микрон
+,FT-H-8M-10,Hy-Lok 8mm,S316,10 микрон
+,FT-H-10M-10,Hy-Lok 10mm,S316,10 микрон
+,FT-H-12M-10,Hy-Lok 12mm,S316,10 микрон
+,FT-H-2T-10,Hy-Lok 1/8,S316,10 микрон
+,FT-H-4T-10,Hy-Lok 1/4,S316,10 микрон
+,FT-H-6T-10,Hy-Lok 3/8,S316,10 микрон
+,FT-H-8T-10,Hy-Lok 1/2,S316,10 микрон
+,FT-F-2N-10,NPT 1/8 внутр.,S316,10 микрон
+,FT-F-2R-10,RT 1/8 внутр.,S316,10 микрон
+,FT-F-4N-10,NPT 1/4 внутр.,S316,10 микрон
+,FT-F-4R-10,RT 1/4 внутр.,S316,10 микрон
+,FT-F-6N-10,NPT 3/8 внутр.,S316,10 микрон
+,FT-F-6R-10,RT 3/8 внутр.,S316,10 микрон
+,FT-F-8N-10,NPT 1/2 внутр.,S316,10 микрон
+,FT-F-8R-10,RT 1/2 внутр.,S316,10 микрон
+,FT-M-4N-10,NPT 1/4 наруж.,S316,10 микрон
+,FT-M-4R-10,RT 1/4 наруж.,S316,10 микрон
+,FT-H-3M-10-BRAS,Hy-Lok 3mm,BRAS,10 микрон
+,FT-H-6M-10-BRAS,Hy-Lok 6mm,BRAS,10 микрон
+,FT-H-8M-10-BRAS,Hy-Lok 8mm,BRAS,10 микрон
+,FT-H-10M-10-BRAS,Hy-Lok 10mm,BRAS,10 микрон
+,FT-H-12M-10-BRAS,Hy-Lok 12mm,BRAS,10 микрон
+,FT-H-2T-10-BRAS,Hy-Lok 1/8,BRAS,10 микрон
+,FT-H-4T-10-BRAS,Hy-Lok 1/4,BRAS,10 микрон
+,FT-H-6T-10-BRAS,Hy-Lok 3/8,BRAS,10 микрон
+,FT-H-8T-10-BRAS,Hy-Lok 1/2,BRAS,10 микрон
+,FT-F-2N-10-BRAS,NPT 1/8 внутр.,BRAS,10 микрон
+,FT-F-2R-10-BRAS,RT 1/8 внутр.,BRAS,10 микрон
+,FT-F-4N-10-BRAS,NPT 1/4 внутр.,BRAS,10 микрон
+,FT-F-4R-10-BRAS,RT 1/4 внутр.,BRAS,10 микрон
+,FT-F-6N-10-BRAS,NPT 3/8 внутр.,BRAS,10 микрон
+,FT-F-6R-10-BRAS,RT 3/8 внутр.,BRAS,10 микрон
+,FT-F-8N-10-BRAS,NPT 1/2 внутр.,BRAS,10 микрон
+,FT-F-8R-10-BRAS,RT 1/2 внутр.,BRAS,10 микрон
+,FT-M-4N-10-BRAS,NPT 1/4 наруж.,BRAS,10 микрон
+,FT-M-4R-10-BRAS,RT 1/4 наруж.,BRAS,10 микрон
+,FT-H-3M-50,Hy-Lok 3mm,S316,50 микрон
+,FT-H-6M-50,Hy-Lok 6mm,S316,50 микрон
+,FT-H-8M-50,Hy-Lok 8mm,S316,50 микрон
+,FT-H-10M-50,Hy-Lok 10mm,S316,50 микрон
+,FT-H-12M-50,Hy-Lok 12mm,S316,50 микрон
+,FT-H-2T-50,Hy-Lok 1/8,S316,50 микрон
+,FT-H-4T-50,Hy-Lok 1/4,S316,50 микрон
+,FT-H-6T-50,Hy-Lok 3/8,S316,50 микрон
+,FT-H-8T-50,Hy-Lok 1/2,S316,50 микрон
+,FT-F-2N-50,NPT 1/8 внутр.,S316,50 микрон
+,FT-F-2R-50,RT 1/8 внутр.,S316,50 микрон
+,FT-F-4N-50,NPT 1/4 внутр.,S316,50 микрон
+,FT-F-4R-50,RT 1/4 внутр.,S316,50 микрон
+,FT-F-6N-50,NPT 3/8 внутр.,S316,50 микрон
+,FT-F-6R-50,RT 3/8 внутр.,S316,50 микрон
+,FT-F-8N-50,NPT 1/2 внутр.,S316,50 микрон
+,FT-F-8R-50,RT 1/2 внутр.,S316,50 микрон
+,FT-M-4N-50,NPT 1/4 наруж.,S316,50 микрон
+,FT-M-4R-50,RT 1/4 наруж.,S316,50 микрон
+,FT-H-3M-50-BRAS,Hy-Lok 3mm,BRAS,50 микрон
+,FT-H-6M-50-BRAS,Hy-Lok 6mm,BRAS,50 микрон
+,FT-H-8M-50-BRAS,Hy-Lok 8mm,BRAS,50 микрон
+,FT-H-10M-50-BRAS,Hy-Lok 10mm,BRAS,50 микрон
+,FT-H-12M-50-BRAS,Hy-Lok 12mm,BRAS,50 микрон
+,FT-H-2T-50-BRAS,Hy-Lok 1/8,BRAS,50 микрон
+,FT-H-4T-50-BRAS,Hy-Lok 1/4,BRAS,50 микрон
+,FT-H-6T-50-BRAS,Hy-Lok 3/8,BRAS,50 микрон
+,FT-H-8T-50-BRAS,Hy-Lok 1/2,BRAS,50 микрон
+,FT-F-2N-50-BRAS,NPT 1/8 внутр.,BRAS,50 микрон
+,FT-F-2R-50-BRAS,RT 1/8 внутр.,BRAS,50 микрон
+,FT-F-4N-50-BRAS,NPT 1/4 внутр.,BRAS,50 микрон
+,FT-F-4R-50-BRAS,RT 1/4 внутр.,BRAS,50 микрон
+,FT-F-6N-50-BRAS,NPT 3/8 внутр.,BRAS,50 микрон
+,FT-F-6R-50-BRAS,RT 3/8 внутр.,BRAS,50 микрон
+,FT-F-8N-50-BRAS,NPT 1/2 внутр.,BRAS,50 микрон
+,FT-F-8R-50-BRAS,RT 1/2 внутр.,BRAS,50 микрон
+,FT-M-4N-50-BRAS,NPT 1/4 наруж.,BRAS,50 микрон
+,FT-M-4R-50-BRAS,RT 1/4 наруж.,BRAS,50 микрон
+,FT-H-3M-100,Hy-Lok 3mm,S316,100 микрон
+,FT-H-6M-100,Hy-Lok 6mm,S316,100 микрон
+,FT-H-8M-100,Hy-Lok 8mm,S316,100 микрон
+,FT-H-10M-100,Hy-Lok 10mm,S316,100 микрон
+,FT-H-12M-100,Hy-Lok 12mm,S316,100 микрон
+,FT-H-2T-100,Hy-Lok 1/8,S316,100 микрон
+,FT-H-4T-100,Hy-Lok 1/4,S316,100 микрон
+,FT-H-6T-100,Hy-Lok 3/8,S316,100 микрон
+,FT-H-8T-100,Hy-Lok 1/2,S316,100 микрон
+,FT-F-2N-100,NPT 1/8 внутр.,S316,100 микрон
+,FT-F-2R-100,RT 1/8 внутр.,S316,100 микрон
+,FT-F-4N-100,NPT 1/4 внутр.,S316,100 микрон
+,FT-F-4R-100,RT 1/4 внутр.,S316,100 микрон
+,FT-F-6N-100,NPT 3/8 внутр.,S316,100 микрон
+,FT-F-6R-100,RT 3/8 внутр.,S316,100 микрон
+,FT-F-8N-100,NPT 1/2 внутр.,S316,100 микрон
+,FT-F-8R-100,RT 1/2 внутр.,S316,100 микрон
+,FT-M-4N-100,NPT 1/4 наруж.,S316,100 микрон
+,FT-M-4R-100,RT 1/4 наруж.,S316,100 микрон
+,FT-H-3M-100-BRAS,Hy-Lok 3mm,BRAS,100 микрон
+,FT-H-6M-100-BRAS,Hy-Lok 6mm,BRAS,100 микрон
+,FT-H-8M-100-BRAS,Hy-Lok 8mm,BRAS,100 микрон
+,FT-H-10M-100-BRAS,Hy-Lok 10mm,BRAS,100 микрон
+,FT-H-12M-100-BRAS,Hy-Lok 12mm,BRAS,100 микрон
+,FT-H-2T-100-BRAS,Hy-Lok 1/8,BRAS,100 микрон
+,FT-H-4T-100-BRAS,Hy-Lok 1/4,BRAS,100 микрон
+,FT-H-6T-100-BRAS,Hy-Lok 3/8,BRAS,100 микрон
+,FT-H-8T-100-BRAS,Hy-Lok 1/2,BRAS,100 микрон
+,FT-F-2N-100-BRAS,NPT 1/8 внутр.,BRAS,100 микрон
+,FT-F-2R-100-BRAS,RT 1/8 внутр.,BRAS,100 микрон
+,FT-F-4N-100-BRAS,NPT 1/4 внутр.,BRAS,100 микрон
+,FT-F-4R-100-BRAS,RT 1/4 внутр.,BRAS,100 микрон
+,FT-F-6N-100-BRAS,NPT 3/8 внутр.,BRAS,100 микрон
+,FT-F-6R-100-BRAS,RT 3/8 внутр.,BRAS,100 микрон
+,FT-F-8N-100-BRAS,NPT 1/2 внутр.,BRAS,100 микрон
+,FT-F-8R-100-BRAS,RT 1/2 внутр.,BRAS,100 микрон
+,FT-M-4N-100-BRAS,NPT 1/4 наруж.,BRAS,100 микрон
+,FT-M-4R-100-BRAS,RT 1/4 наруж.,BRAS,100 микрон
+,FT-H-3M-150,Hy-Lok 3mm,S316,150 микрон
+,FT-H-6M-150,Hy-Lok 6mm,S316,150 микрон
+,FT-H-8M-150,Hy-Lok 8mm,S316,150 микрон
+,FT-H-10M-150,Hy-Lok 10mm,S316,150 микрон
+,FT-H-12M-150,Hy-Lok 12mm,S316,150 микрон
+,FT-H-2T-150,Hy-Lok 1/8,S316,150 микрон
+,FT-H-4T-150,Hy-Lok 1/4,S316,150 микрон
+,FT-H-6T-150,Hy-Lok 3/8,S316,150 микрон
+,FT-H-8T-150,Hy-Lok 1/2,S316,150 микрон
+,FT-F-2N-150,NPT 1/8 внутр.,S316,150 микрон
+,FT-F-2R-150,RT 1/8 внутр.,S316,150 микрон
+,FT-F-4N-150,NPT 1/4 внутр.,S316,150 микрон
+,FT-F-4R-150,RT 1/4 внутр.,S316,150 микрон
+,FT-F-6N-150,NPT 3/8 внутр.,S316,150 микрон
+,FT-F-6R-150,RT 3/8 внутр.,S316,150 микрон
+,FT-F-8N-150,NPT 1/2 внутр.,S316,150 микрон
+,FT-F-8R-150,RT 1/2 внутр.,S316,150 микрон
+,FT-M-4N-150,NPT 1/4 наруж.,S316,150 микрон
+,FT-M-4R-150,RT 1/4 наруж.,S316,150 микрон
+,FT-H-3M-150-BRAS,Hy-Lok 3mm,BRAS,150 микрон
+,FT-H-6M-150-BRAS,Hy-Lok 6mm,BRAS,150 микрон
+,FT-H-8M-150-BRAS,Hy-Lok 8mm,BRAS,150 микрон
+,FT-H-10M-150-BRAS,Hy-Lok 10mm,BRAS,150 микрон
+,FT-H-12M-150-BRAS,Hy-Lok 12mm,BRAS,150 микрон
+,FT-H-2T-150-BRAS,Hy-Lok 1/8,BRAS,150 микрон
+,FT-H-4T-150-BRAS,Hy-Lok 1/4,BRAS,150 микрон
+,FT-H-6T-150-BRAS,Hy-Lok 3/8,BRAS,150 микрон
+,FT-H-8T-150-BRAS,Hy-Lok 1/2,BRAS,150 микрон
+,FT-F-2N-150-BRAS,NPT 1/8 внутр.,BRAS,150 микрон
+,FT-F-2R-150-BRAS,RT 1/8 внутр.,BRAS,150 микрон
+,FT-F-4N-150-BRAS,NPT 1/4 внутр.,BRAS,150 микрон
+,FT-F-4R-150-BRAS,RT 1/4 внутр.,BRAS,150 микрон
+,FT-F-6N-150-BRAS,NPT 3/8 внутр.,BRAS,150 микрон
+,FT-F-6R-150-BRAS,RT 3/8 внутр.,BRAS,150 микрон
+,FT-F-8N-150-BRAS,NPT 1/2 внутр.,BRAS,150 микрон
+,FT-F-8R-150-BRAS,RT 1/2 внутр.,BRAS,150 микрон
+,FT-M-4N-150-BRAS,NPT 1/4 наруж.,BRAS,150 микрон
+,FT-M-4R-150-BRAS,RT 1/4 наруж.,BRAS,150 микрон

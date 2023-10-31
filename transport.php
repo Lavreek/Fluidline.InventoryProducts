@@ -32,12 +32,22 @@ if (isset($options['f'])) {
 
     $products = $headerValues = [];
 
-    while ($data = fgetcsv($f, separator: ';')) {
+    $separator = ',';
+
+    while ($data = fgetcsv($f, separator: $separator)) {
+        if ($rowPosition < 1) {
+            if (count($data) < 2) {
+                preg_match('#\w+\"?([,|;])\"?\w+\"$#u', $data[0], $match);
+
+                if (isset($match[1])) {
+                    $separator = $match[1];
+                }
+            }
+        }
         if ($rowPosition > 1) {
             if (!isset($products[$data[0]])) {
                 $products[$data[0]] = [];
             }
-
             $products[$data[0]] += [$data[1] => $data[2]];
 
             if (!in_array($data[1], $headerValues)) {
