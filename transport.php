@@ -22,6 +22,8 @@
   WHERE tmplvarid = 15 AND `parent` = 26128)
  */
 
+ini_set('memory_limit', '1024M');
+
 $options = getopt("f:");
 
 if (isset($options['f'])) {
