@@ -1,0 +1,25 @@
+[!getTableFiltered_outer?
+&filterCols=`
+96::Конфигурация
+21::Подсоединение
+80::Размер шкалы
+17::Давление
+93::Поверка
+89::Заполнение глицерином
+`
+&tableCols=`
+21::<span class="help" title="Подсоединение">Подсоед.*
+80::<span class="help" title="Размер шкалы">D*
+17::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Давление&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+93::<span class="help" title="Поверка">VE*</span>
+89::<span class="help" title="Заполнение глицерином">GW*</span>
+15::
+6::image
+`
+&productInfo=`
+@{{3d_models}}
+`
+&filterGroups=`17==от 0 до 0.6бар::<h4>Манометры</h4>//от 0 до 8psi::<p>&nbsp</p>//от -1 до 0бар::<h4>Мановакууметры</h4>//от -100 до 0КПа::<p>&nbsp;<br/></p>//от -14.5 до 0psi::<p>&nbsp</p>//от 0 до 60кПа::<p>&nbsp;</p>||80==40мм::<h4>Серия G20</h4>//50мм::<h4>Серия G21</h4>//63мм::<h4>Серия G22</h4>`
+&tooltip=`87::16`
+
+!]

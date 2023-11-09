@@ -1,0 +1,26 @@
+<!--87::<span class="help" title="Материал корпуса">Мат.*</span>||-->
+[!getTableFiltered_outer?
+&filterCols=`
+87::Материал корпуса
+21::Подсоединение
+80::Размер шкалы
+17::Давление
+93::Поверка
+
+`
+&tableCols=`
+
+96::<span class="help" title="Конфигурация">Конфиг.*</span>
+21::<span class="help" title="Подсоединение">Подсоед.*</span>
+80::Размер шкалы
+17::Давление
+93::<span class="help" title="Поверка">VE*</span>
+15::
+6::image
+`
+&filterGroups=`17==от 0 до 1.6бар::<p>&nbsp;</p>//от 0 до 160кПа::<p>&nbsp;</p>//от 0 до 23psi::<p>&nbsp;</p>`
+&tooltip=`96::16`
+
+
+
+!]

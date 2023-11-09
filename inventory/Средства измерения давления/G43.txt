@@ -1,0 +1,21 @@
+[!getTableFiltered_outer?
+&filterCols=`
+21::Подсоединение
+80::Размер шкалы
+17::Давление
+93::Поверка
+`
+&tableCols=`
+21::<span class="help" title="Подсоединение">Подсоед.*</span>
+80::Размер шкалы
+17::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Давление&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+93::<span class="help" title="Поверка">VE*</span>
+15::
+6::image
+`
+&tooltip=`87::16`
+&filterGroups=`17==от 0 до 16мбар::<h4>Манометры</h4>//от 0 до 1.6кПа::<p>&nbsp;</p>//от -600 до 0мбар::<h4>Мановакууметры</h4>////от -60 до 0кПа::<p>&nbsp;</p>`
+
+
+
+!]

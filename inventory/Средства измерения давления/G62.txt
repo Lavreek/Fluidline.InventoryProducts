@@ -1,0 +1,23 @@
+[!getTableFiltered_outer?
+&filterCols=`
+21::Подсоединение
+80::Размер шкалы
+17::Давление
+93::Поверка
+
+`
+&tableCols=`
+87::<span class="help" title="Конфигурация">Конфиг.*</span>
+21::<span class="help" title="Подсоединение">Подсоед.*</span>
+80::Размер шкалы
+17::Давление
+93::<span class="help" title="Поверка">VE*</span>
+15::
+6::image
+`
+&filterGroups=`17==от 0 до 10мбар::<p>&nbsp;</p>//от 0 до 1кПа::<p>&nbsp;</p>//от 0 до 30Па::<p>&nbsp;</p>`
+&tooltip=`87::16`
+
+
+
+!]
