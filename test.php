@@ -1,5 +1,7 @@
 <?php
 
+die("Deprecated\n");
+
 ini_set('memory_limit', '1024M');
 
 $productsPath = __DIR__ . "/inventory/Клапаны/";
