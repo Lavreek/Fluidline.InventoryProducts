@@ -1,2 +1,3 @@
 *.lock
 *.gen
+*.skip
