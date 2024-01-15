@@ -1,27 +1,21 @@
-#,Заказной код,Параметр:Заказной код:Соединение,Параметр:Заказной код:Давление,Параметр:Заказной код:Cv,,
-,DRA100-A025S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-1,7 бар",0.2,,
-,DRA100-A050S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-3,5 бар",0.2,,
-,DRA100-A100S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-7 бар",0.2,,
-,DRA100-A250S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-17 бар","0.2
-
-
- ",,
-,DRA100-A025S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-1,7 бар",0.2,,
-,DRA100-A050S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-3,5 бар",0.2,,
-,DRA100-A100S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-7 бар",0.2,,
-,DRA100-A250S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-17 бар",0.2,,
-,DRA100-A025S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-1,7 бар",0.2,,
-,DRA100-A050S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-3,5 бар",0.2,,
-,DRA100-A100S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-7 бар",0.2,,
-,DRA100-A250S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-17 бар",0.2,,
-,DRA100-A025S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-1,7 бар",0.2,,
-,DRA100-A050S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-3,5 бар",0.2,,
-,DRA100-A100S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-7 бар",0.2,,
-,DRA100-A250S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-17 бар",0.2,,
-,DRA100-A025S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-1,7 бар",0.2,,
-,DRA100-A050S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-3,5 бар",0.2,,
-,DRA100-A100S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-7 бар","0.2
-
-
- ",,
-,DRA100-A250S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-17 бар",0.2,,
+#,Заказной код,Параметр:Заказной код:Соединение,Параметр:Заказной код:Давление,Параметр:Заказной код:Cv
+,DRA100-A025S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-1,7 бар",0.2
+,DRA100-A050S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-3,5 бар",0.2
+,DRA100-A100S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-7 бар",0.2
+,DRA100-A250S-LPO-4MS-G0S,"Male VCR 1/4""","0,1-17 бар","0.2"
+,DRA100-A025S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-1,7 бар",0.2
+,DRA100-A050S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-3,5 бар",0.2
+,DRA100-A100S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-7 бар",0.2
+,DRA100-A250S-LPO-4MS-G1S,"Male VCR 1/4""","0,1-17 бар",0.2
+,DRA100-A025S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-1,7 бар",0.2
+,DRA100-A050S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-3,5 бар",0.2
+,DRA100-A100S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-7 бар",0.2
+,DRA100-A250S-LPO-4MS-G1S-GAUGE,"Male VCR 1/4""","0,1-17 бар",0.2
+,DRA100-A025S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-1,7 бар",0.2
+,DRA100-A050S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-3,5 бар",0.2
+,DRA100-A100S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-7 бар",0.2
+,DRA100-A250S-LPO-4MS-G2S,"Male VCR 1/4""","0,1-17 бар",0.2
+,DRA100-A025S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-1,7 бар",0.2
+,DRA100-A050S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-3,5 бар",0.2
+,DRA100-A100S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-7 бар","0.2"
+,DRA100-A250S-LPO-4MS-G2S-GAUGE,"Male VCR 1/4""","0,1-17 бар",0.2

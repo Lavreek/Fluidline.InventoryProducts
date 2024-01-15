@@ -1,43 +1,43 @@
 code;code_id;image_path
-CNFS-1  ;1869333;/assets/inventory/default.png
-CNFS-1  -BRAS;1869334;/assets/inventory/default.png
-CNFS-1  -STEL;1869335;/assets/inventory/default.png
-CNFS-2  ;1869336;/assets/inventory/default.png
-CNFS-2  -BRAS;1869337;/assets/inventory/default.png
-CNFS-2  -STEL;1869338;/assets/inventory/default.png
-CNFS-3  ;1869339;/assets/inventory/default.png
-CNFS-3  -BRAS;1869340;/assets/inventory/default.png
-CNFS-3  -STEL;1869341;/assets/inventory/default.png
-CNFS-4  ;1869342;/assets/inventory/default.png
-CNFS-4  -BRAS;1869343;/assets/inventory/default.png
-CNFS-4  -STEL;1869344;/assets/inventory/default.png
-CNFS-5  ;1869345;/assets/inventory/default.png
-CNFS-5  -BRAS;1869346;/assets/inventory/default.png
-CNFS-5  -STEL;1869347;/assets/inventory/default.png
-CNFS-6  ;1869348;/assets/inventory/default.png
-CNFS-6  -BRAS;1869349;/assets/inventory/default.png
-CNFS-6  -STEL;1869350;/assets/inventory/default.png
-CNFS-8  ;1869351;/assets/inventory/default.png
-CNFS-8  -BRAS;1869352;/assets/inventory/default.png
-CNFS-8  -STEL;1869353;/assets/inventory/default.png
-CNFS-10  ;1869354;/assets/inventory/default.png
-CNFS-10  -BRAS;1869355;/assets/inventory/default.png
-CNFS-10  -STEL;1869356;/assets/inventory/default.png
-CNFS-12  ;1869357;/assets/inventory/default.png
-CNFS-12  -BRAS;1869358;/assets/inventory/default.png
-CNFS-12  -STEL;1869359;/assets/inventory/default.png
-CNFS-14  ;1869360;/assets/inventory/default.png
-CNFS-14  -BRAS;1869361;/assets/inventory/default.png
-CNFS-14  -STEL;1869362;/assets/inventory/default.png
-CNFS-16  ;1869363;/assets/inventory/default.png
-CNFS-16  -BRAS;1869364;/assets/inventory/default.png
-CNFS-16  -STEL;1869365;/assets/inventory/default.png
-CNFS-20  ;1869366;/assets/inventory/default.png
-CNFS-20  -BRAS;1869367;/assets/inventory/default.png
-CNFS-20  -STEL;1869368;/assets/inventory/default.png
-CNFS-24  ;1869369;/assets/inventory/default.png
-CNFS-24  -BRAS;1869370;/assets/inventory/default.png
-CNFS-24  -STEL;1869371;/assets/inventory/default.png
-CNFS-32  ;1869372;/assets/inventory/default.png
-CNFS-32  -BRAS;1869373;/assets/inventory/default.png
-CNFS-32  -STEL;1869374;/assets/inventory/default.png
+CNFS-1;570596;/assets/inventory/cnfs2.png
+CNFS-1-BRAS;570597;/assets/inventory/cnfs2.png
+CNFS-1-STEL;570598;/assets/inventory/cnfs2.png
+CNFS-2;570599;/assets/inventory/cnfs2.png
+CNFS-2-BRAS;570600;/assets/inventory/cnfs2.png
+CNFS-2-STEL;570601;/assets/inventory/cnfs2.png
+CNFS-3;570602;/assets/inventory/cnfs2.png
+CNFS-3-BRAS;570603;/assets/inventory/cnfs2.png
+CNFS-3-STEL;570604;/assets/inventory/cnfs2.png
+CNFS-4;570605;/assets/inventory/cnfs2.png
+CNFS-4-BRAS;570606;/assets/inventory/cnfs2.png
+CNFS-4-STEL;570607;/assets/inventory/cnfs2.png
+CNFS-5;570608;/assets/inventory/cnfs2.png
+CNFS-5-BRAS;570609;/assets/inventory/cnfs2.png
+CNFS-5-STEL;570610;/assets/inventory/cnfs2.png
+CNFS-6;570611;/assets/inventory/cnfs2.png
+CNFS-6-BRAS;570612;/assets/inventory/cnfs2.png
+CNFS-6-STEL;570613;/assets/inventory/cnfs2.png
+CNFS-8;570614;/assets/inventory/cnfs2.png
+CNFS-8-BRAS;570615;/assets/inventory/cnfs2.png
+CNFS-8-STEL;570616;/assets/inventory/cnfs2.png
+CNFS-10;570617;/assets/inventory/cnfs2.png
+CNFS-10-BRAS;570618;/assets/inventory/cnfs2.png
+CNFS-10-STEL;570619;/assets/inventory/cnfs2.png
+CNFS-12;570620;/assets/inventory/cnfs2.png
+CNFS-12-BRAS;570621;/assets/inventory/cnfs2.png
+CNFS-12-STEL;570622;/assets/inventory/cnfs2.png
+CNFS-14;570623;/assets/inventory/cnfs2.png
+CNFS-14-BRAS;570624;/assets/inventory/cnfs2.png
+CNFS-14-STEL;570625;/assets/inventory/cnfs2.png
+CNFS-16;570626;/assets/inventory/cnfs2.png
+CNFS-16-BRAS;570627;/assets/inventory/cnfs2.png
+CNFS-16-STEL;570628;/assets/inventory/cnfs2.png
+CNFS-20;570629;/assets/inventory/cnfs2.png
+CNFS-20-BRAS;570630;/assets/inventory/cnfs2.png
+CNFS-20-STEL;570631;/assets/inventory/cnfs2.png
+CNFS-24;570632;/assets/inventory/cnfs2.png
+CNFS-24-BRAS;570633;/assets/inventory/cnfs2.png
+CNFS-24-STEL;570634;/assets/inventory/cnfs2.png
+CNFS-32;570635;/assets/inventory/cnfs2.png
+CNFS-32-BRAS;570636;/assets/inventory/cnfs2.png
+CNFS-32-STEL;570637;/assets/inventory/cnfs2.png

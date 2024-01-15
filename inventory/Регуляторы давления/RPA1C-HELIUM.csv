@@ -1,11 +1,11 @@
-#,Заказной код,Параметр:Заказной код:Давление,Параметр:Заказной код:Вход,,
-,RPA1CP-CB-1.5-G-HOS-HE,1.5 бар,G3/4”,,
-,RPA1CP-CB-1.5-W-HOS-HE,1.5 бар,W21.8x1/14”,,
-,RPA1CP-CB-4-G-HOS-HE,4 бар,G3/4”,,
-,RPA1CP-CB-4-W-HOS-HE,4 бар,W21.8x1/14”,,
-,RPA1CP-CB-10-G-HOS-HE,10 бар,G3/4”,,
-,RPA1CP-CB-10-W-HOS-HE,10 бар,W21.8x1/14”,,
-,RPA1CP-CB-16-W-HOS-HE,16 бар,W21.8x1/14”,,
-,RPA1CP-CB-16-G-HOS-HE,16 бар,G 3/4”,,
-,RPA1CP-CB-20-G-HOS-HE,20 бар,G3/4”,,
-,RPA1CP-CB-20-W-HOS-HE,20 бар,W21.8x1/14”,,
+#,Заказной код,Параметр:Заказной код:Давление,Параметр:Заказной код:Вход
+,RPA1CP-CB-1.5-G-HOS-HE,1.5 бар,G3/4”
+,RPA1CP-CB-1.5-W-HOS-HE,1.5 бар,W21.8x1/14”
+,RPA1CP-CB-4-G-HOS-HE,4 бар,G3/4”
+,RPA1CP-CB-4-W-HOS-HE,4 бар,W21.8x1/14”
+,RPA1CP-CB-10-G-HOS-HE,10 бар,G3/4”
+,RPA1CP-CB-10-W-HOS-HE,10 бар,W21.8x1/14”
+,RPA1CP-CB-16-W-HOS-HE,16 бар,W21.8x1/14”
+,RPA1CP-CB-16-G-HOS-HE,16 бар,G 3/4”
+,RPA1CP-CB-20-G-HOS-HE,20 бар,G3/4”
+,RPA1CP-CB-20-W-HOS-HE,20 бар,W21.8x1/14”

@@ -1,66 +1,52 @@
-#,Заказной код,Параметр:Заказной код:Размер,Параметр:Заказной код:Материал,,
-,TL-6x1mm-S316/316L(Korea),6x1mm,S316/316L,,
-,TL-6x1.5mm-S316/316L(Korea),6x1.5mm,S316/316L,,
-,TL-6.35x0.89mm-S316/316L(Korea),"6,35x0.89mm",S316/316L,,
-,"TL-6,35x1.24mm-S316/316L(Korea)","6,35x1.24mm",S316/316L,,
-,"TL-6,35x1,65mm-S316/316L(Korea)","6,35x1,65mm",S316/316L,,
-,TL-8x1mm-S316/316L(Korea),8x1mm,S316/316L,,
-,TL-8x1.5mm-S316/316L(Korea),8x1.5mm,S316/316L,,
-,TL-9.53x0.89mm-S316/316L(Korea),9.53x0.89mm,S316/316L,,
-,TL-9.53x1.24mm-S316/316L(Korea),"9,53x1.24mm",S316/316L,,
-,TL-10x1mm-S316/316L(Korea),10x1mm,S316/316L,,
-,TL-10x1.5mm-S316/316L(Korea),10x1.5mm,S316/316L,,
-,TL-10x2mm-S316/316L(Korea),10x2mm,S316/316L,,
-,TL-12x2mm-S316/316L(Korea),12x2mm,S316/316L,,
-,TL-12x1mm-S316/316L(Korea),12x1mm,S316/316L,,
-,TL-12x1.5mm-S316/316L(Korea),12x1.5mm,S316/316L,,
-,TL-12.7x0.89mm-S316/316L(Korea),12.7x0.89mm,S316/316L,,
-,TL-12.7x1.24mm-S316/316L(Korea),12.7x1.24mm,S316/316L,,
-,TL-12.7x1.65mm-S316/316L(Korea),12.7x1.65mm,S316/316L,,
-,TL-14x1.5mm-S316/316L(Korea),14x1.5mm,S316/316L,,
-,TL-14x2mm-S316/316L(Korea),14x2mm,S316/316L,,
-,TL-15x1.5mm-S316/316L(Korea),15x1.5mm,S316/316L,,
-,TL-15x2mm-S316/316L(Korea),15x2mm,S316/316L,,
-,TL-16x1.5mm-S316/316L(Korea),16x1.5mm,S316/316L,,
-,TL-16x2mm-S316/316L(Korea),16x2mm,S316/316L,,
-,TL-16x3mm-S316/316L(Korea),16x3mm,S316/316L,,
-,TL-18x2mm-S316/316L(Korea),18x2mm,S316/316L,,
-,"TL-19,05x1,65mm-S316/316L(Korea)","19,05x1,65mm",S316/316L,,
-,TL-20x2mm-S316/316L(Korea),20x2mm,S316/316L,,
-,"TL-20x2,5mm-S316/316L(Korea)","20x2,5mm",S316/316L,,
-,TL-22x2mm-S316/316L(Korea),22x2mm,S316/316L,,
-,TL-22x2.5mm-S316/316L(Korea),22x2.5mm,S316/316L,,
-,TL-25x2mm-S316/316L(Korea),25x2mm,S316/316L,,
-,"TL-25x2,5mm-S316/316L(Korea)","25x2,5mm",S316/316L,,
-,TL-25x3mm-S316/316L(Korea),25x3mm,S316/316L,,
-,"TL-25,4x2,11mm-S316/316L(Korea)","25,4x2,11mm",S316/316L,,
-,TL-32x3mm-S316/316L(Korea),32x3mm,S316/316L,,
-,TL-38x3mm-S316/316L(Korea),38x3mm,S316/316L,,
-,TC-1/8x0.016-S316/316L(Korea),"1/8x0.016""
-бухта",S316/316L,,
-,TC-1/8x0.028-S316/316L(Korea),"1/8x0.028""
-бухта",S316/316L,,
-,TC-1/8x0.02-S316/316L(Korea),"1/8x0.02""
-бухта",S316/316L,,
-,TC-3x0.5mm-S316/316L(Korea),"3x0.5mm
-бухта",S316/316L,,
-,TC-3x0.7mm-S316/316L(Korea),"3x0.7mm
-бухта",S316/316L,,
-,TC-6x1mm-S316/316L(Korea),"6x1mm
-бухта",S316/316L,,
-,TC-8x1mm-S316/316L(Korea),"8x1mm
-бухта",S316/316L,,
-,TC-10x1mm-S316/316L(Korea),"10x1mm
-бухта",S316/316L,,
-,TC-12x1mm-S316/316L(Korea),"12x1mm
-бухта",S316/316L,,
-,"TC-6,35x0,89mm-S316/316L(Korea)","6,35x0.89mm
-бухта",S316/316L,,
-,"TC-6,35x1,24mm-S316/316L(Korea)","6,35x1.24mm
-бухта",S316/316L,,
-,"TC-6,35x1,65mm-S316/316L(Korea)","6,35x1.65mm
-бухта",S316/316L,,
-,"TC-9,53x0,89mm-S316/316L(Korea)","9.53x0.89mm
-бухта",S316/316L,,
-,"TC-9,53x1,24mm-S316/316L(Korea)","9.53x1.24mm
-бухта",S316/316L,,
+#,Заказной код,Параметр:Заказной код:Размер,Параметр:Заказной код:Материал
+,TL-6x1mm-S316/316L(Korea),6x1mm,S316/316L
+,TL-6x1.5mm-S316/316L(Korea),6x1.5mm,S316/316L
+,TL-6.35x0.89mm-S316/316L(Korea),"6,35x0.89mm",S316/316L
+,"TL-6,35x1.24mm-S316/316L(Korea)","6,35x1.24mm",S316/316L
+,"TL-6,35x1,65mm-S316/316L(Korea)","6,35x1,65mm",S316/316L
+,TL-8x1mm-S316/316L(Korea),8x1mm,S316/316L
+,TL-8x1.5mm-S316/316L(Korea),8x1.5mm,S316/316L
+,TL-9.53x0.89mm-S316/316L(Korea),9.53x0.89mm,S316/316L
+,TL-9.53x1.24mm-S316/316L(Korea),"9,53x1.24mm",S316/316L
+,TL-10x1mm-S316/316L(Korea),10x1mm,S316/316L
+,TL-10x1.5mm-S316/316L(Korea),10x1.5mm,S316/316L
+,TL-10x2mm-S316/316L(Korea),10x2mm,S316/316L
+,TL-12x2mm-S316/316L(Korea),12x2mm,S316/316L
+,TL-12x1mm-S316/316L(Korea),12x1mm,S316/316L
+,TL-12x1.5mm-S316/316L(Korea),12x1.5mm,S316/316L
+,TL-12.7x0.89mm-S316/316L(Korea),12.7x0.89mm,S316/316L
+,TL-12.7x1.24mm-S316/316L(Korea),12.7x1.24mm,S316/316L
+,TL-12.7x1.65mm-S316/316L(Korea),12.7x1.65mm,S316/316L
+,TL-14x1.5mm-S316/316L(Korea),14x1.5mm,S316/316L
+,TL-14x2mm-S316/316L(Korea),14x2mm,S316/316L
+,TL-15x1.5mm-S316/316L(Korea),15x1.5mm,S316/316L
+,TL-15x2mm-S316/316L(Korea),15x2mm,S316/316L
+,TL-16x1.5mm-S316/316L(Korea),16x1.5mm,S316/316L
+,TL-16x2mm-S316/316L(Korea),16x2mm,S316/316L
+,TL-16x3mm-S316/316L(Korea),16x3mm,S316/316L
+,TL-18x2mm-S316/316L(Korea),18x2mm,S316/316L
+,"TL-19,05x1,65mm-S316/316L(Korea)","19,05x1,65mm",S316/316L
+,TL-20x2mm-S316/316L(Korea),20x2mm,S316/316L
+,"TL-20x2,5mm-S316/316L(Korea)","20x2,5mm",S316/316L
+,TL-22x2mm-S316/316L(Korea),22x2mm,S316/316L
+,TL-22x2.5mm-S316/316L(Korea),22x2.5mm,S316/316L
+,TL-25x2mm-S316/316L(Korea),25x2mm,S316/316L
+,"TL-25x2,5mm-S316/316L(Korea)","25x2,5mm",S316/316L
+,TL-25x3mm-S316/316L(Korea),25x3mm,S316/316L
+,"TL-25,4x2,11mm-S316/316L(Korea)","25,4x2,11mm",S316/316L
+,TL-32x3mm-S316/316L(Korea),32x3mm,S316/316L
+,TL-38x3mm-S316/316L(Korea),38x3mm,S316/316L
+,TC-1/8x0.016-S316/316L(Korea),"1/8x0.016"" бухта",S316/316L
+,TC-1/8x0.028-S316/316L(Korea),"1/8x0.028"" бухта",S316/316L
+,TC-1/8x0.02-S316/316L(Korea),"1/8x0.02"" бухта",S316/316L
+,TC-3x0.5mm-S316/316L(Korea),3x0.5mm бухта,S316/316L
+,TC-3x0.7mm-S316/316L(Korea),3x0.7mm бухта,S316/316L
+,TC-6x1mm-S316/316L(Korea),6x1mm бухта,S316/316L
+,TC-8x1mm-S316/316L(Korea),8x1mm бухта,S316/316L
+,TC-10x1mm-S316/316L(Korea),10x1mm бухта,S316/316L
+,TC-12x1mm-S316/316L(Korea),12x1mm бухта,S316/316L
+,"TC-6,35x0,89mm-S316/316L(Korea)","6,35x0.89mm бухта",S316/316L
+,"TC-6,35x1,24mm-S316/316L(Korea)","6,35x1.24mm бухта",S316/316L
+,"TC-6,35x1,65mm-S316/316L(Korea)","6,35x1.65mm бухта",S316/316L
+,"TC-9,53x0,89mm-S316/316L(Korea)",9.53x0.89mm бухта,S316/316L
+,"TC-9,53x1,24mm-S316/316L(Korea)",9.53x1.24mm бухта,S316/316L

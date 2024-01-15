@@ -1,82 +1,82 @@
 code;code_id;image_path
-CRTM-2-2R ;1870695;/assets/inventory/default.png
-CRTM-2-2R -BRAS;1870696;/assets/inventory/default.png
-CRTM-2-2R -STEL;1870697;/assets/inventory/default.png
-CRTM-2-4R ;1870698;/assets/inventory/default.png
-CRTM-2-4R -BRAS;1870699;/assets/inventory/default.png
-CRTM-2-4R -STEL;1870700;/assets/inventory/default.png
-CRTM-3-2R ;1870701;/assets/inventory/default.png
-CRTM-3-2R -BRAS;1870702;/assets/inventory/default.png
-CRTM-3-2R -STEL;1870703;/assets/inventory/default.png
-CRTM-4-2R ;1870704;/assets/inventory/default.png
-CRTM-4-2R -BRAS;1870705;/assets/inventory/default.png
-CRTM-4-2R -STEL;1870706;/assets/inventory/default.png
-CRTM-4-4R ;1870707;/assets/inventory/default.png
-CRTM-4-4R -BRAS;1870708;/assets/inventory/default.png
-CRTM-4-4R -STEL;1870709;/assets/inventory/default.png
-CRTM-5-2R ;1870710;/assets/inventory/default.png
-CRTM-5-2R -BRAS;1870711;/assets/inventory/default.png
-CRTM-5-2R -STEL;1870712;/assets/inventory/default.png
-CRTM-6-4R ;1870713;/assets/inventory/default.png
-CRTM-6-4R -BRAS;1870714;/assets/inventory/default.png
-CRTM-6-4R -STEL;1870715;/assets/inventory/default.png
-CRTM-6-6R ;1870716;/assets/inventory/default.png
-CRTM-6-6R -BRAS;1870717;/assets/inventory/default.png
-CRTM-6-6R -STEL;1870718;/assets/inventory/default.png
-CRTM-8-6R ;1870719;/assets/inventory/default.png
-CRTM-8-6R -BRAS;1870720;/assets/inventory/default.png
-CRTM-8-6R -STEL;1870721;/assets/inventory/default.png
-CRTM-8-8R ;1870722;/assets/inventory/default.png
-CRTM-8-8R -BRAS;1870723;/assets/inventory/default.png
-CRTM-8-8R -STEL;1870724;/assets/inventory/default.png
-CRTM-10-8R ;1870725;/assets/inventory/default.png
-CRTM-10-8R -BRAS;1870726;/assets/inventory/default.png
-CRTM-10-8R -STEL;1870727;/assets/inventory/default.png
-CRTM-12-12R ;1870728;/assets/inventory/default.png
-CRTM-12-12R -BRAS;1870729;/assets/inventory/default.png
-CRTM-12-12R -STEL;1870730;/assets/inventory/default.png
-CRTM-3M-2R ;1870731;/assets/inventory/default.png
-CRTM-3M-2R -BRAS;1870732;/assets/inventory/default.png
-CRTM-3M-2R -STEL;1870733;/assets/inventory/default.png
-CRTM-3M-4R ;1870734;/assets/inventory/default.png
-CRTM-3M-4R -BRAS;1870735;/assets/inventory/default.png
-CRTM-3M-4R -STEL;1870736;/assets/inventory/default.png
-CRTM-4M-2R ;1870737;/assets/inventory/default.png
-CRTM-4M-2R -BRAS;1870738;/assets/inventory/default.png
-CRTM-4M-2R -STEL;1870739;/assets/inventory/default.png
-CRTM-6M-2R ;1870740;/assets/inventory/default.png
-CRTM-6M-2R -BRAS;1870741;/assets/inventory/default.png
-CRTM-6M-2R -STEL;1870742;/assets/inventory/default.png
-CRTM-6M-4R ;1870743;/assets/inventory/default.png
-CRTM-6M-4R -BRAS;1870744;/assets/inventory/default.png
-CRTM-6M-4R -STEL;1870745;/assets/inventory/default.png
-CRTM-8M-2R ;1870746;/assets/inventory/default.png
-CRTM-8M-2R -BRAS;1870747;/assets/inventory/default.png
-CRTM-8M-2R -STEL;1870748;/assets/inventory/default.png
-CRTM-8M-4R ;1870749;/assets/inventory/default.png
-CRTM-8M-4R -BRAS;1870750;/assets/inventory/default.png
-CRTM-8M-4R -STEL;1870751;/assets/inventory/default.png
-CRTM-10M-4R ;1870752;/assets/inventory/default.png
-CRTM-10M-4R -BRAS;1870753;/assets/inventory/default.png
-CRTM-10M-4R -STEL;1870754;/assets/inventory/default.png
-CRTM-10M-6R ;1870755;/assets/inventory/default.png
-CRTM-10M-6R -BRAS;1870756;/assets/inventory/default.png
-CRTM-10M-6R -STEL;1870757;/assets/inventory/default.png
-CRTM-12M-4R ;1870758;/assets/inventory/default.png
-CRTM-12M-4R -BRAS;1870759;/assets/inventory/default.png
-CRTM-12M-4R -STEL;1870760;/assets/inventory/default.png
-CRTM-12M-6R ;1870761;/assets/inventory/default.png
-CRTM-12M-6R -BRAS;1870762;/assets/inventory/default.png
-CRTM-12M-6R -STEL;1870763;/assets/inventory/default.png
-CRTM-12M-8R ;1870764;/assets/inventory/default.png
-CRTM-12M-8R -BRAS;1870765;/assets/inventory/default.png
-CRTM-12M-8R -STEL;1870766;/assets/inventory/default.png
-CRTM-16M-6R ;1870767;/assets/inventory/default.png
-CRTM-16M-6R -BRAS;1870768;/assets/inventory/default.png
-CRTM-16M-6R -STEL;1870769;/assets/inventory/default.png
-CRTM-16M-8R ;1870770;/assets/inventory/default.png
-CRTM-16M-8R -BRAS;1870771;/assets/inventory/default.png
-CRTM-16M-8R -STEL;1870772;/assets/inventory/default.png
-CRTM-20M-12R ;1870773;/assets/inventory/default.png
-CRTM-20M-12R -BRAS;1870774;/assets/inventory/default.png
-CRTM-20M-12R -STEL;1870775;/assets/inventory/default.png
+CRTM-2-2R;572069;/assets/inventory/CBTF_scheme.png
+CRTM-2-2R-BRAS;572070;/assets/inventory/CBTF_scheme.png
+CRTM-2-2R-STEL;572071;/assets/inventory/CBTF_scheme.png
+CRTM-2-4R;572072;/assets/inventory/CBTF_scheme.png
+CRTM-2-4R-BRAS;572073;/assets/inventory/CBTF_scheme.png
+CRTM-2-4R-STEL;572074;/assets/inventory/CBTF_scheme.png
+CRTM-3-2R;572075;/assets/inventory/CBTF_scheme.png
+CRTM-3-2R-BRAS;572076;/assets/inventory/CBTF_scheme.png
+CRTM-3-2R-STEL;572077;/assets/inventory/CBTF_scheme.png
+CRTM-4-2R;572078;/assets/inventory/CBTF_scheme.png
+CRTM-4-2R-BRAS;572079;/assets/inventory/CBTF_scheme.png
+CRTM-4-2R-STEL;572080;/assets/inventory/CBTF_scheme.png
+CRTM-4-4R;572081;/assets/inventory/CBTF_scheme.png
+CRTM-4-4R-BRAS;572082;/assets/inventory/CBTF_scheme.png
+CRTM-4-4R-STEL;572083;/assets/inventory/CBTF_scheme.png
+CRTM-5-2R;572084;/assets/inventory/CBTF_scheme.png
+CRTM-5-2R-BRAS;572085;/assets/inventory/CBTF_scheme.png
+CRTM-5-2R-STEL;572086;/assets/inventory/CBTF_scheme.png
+CRTM-6-4R;572087;/assets/inventory/CBTF_scheme.png
+CRTM-6-4R-BRAS;572088;/assets/inventory/CBTF_scheme.png
+CRTM-6-4R-STEL;572089;/assets/inventory/CBTF_scheme.png
+CRTM-6-6R;572090;/assets/inventory/CBTF_scheme.png
+CRTM-6-6R-BRAS;572091;/assets/inventory/CBTF_scheme.png
+CRTM-6-6R-STEL;572092;/assets/inventory/CBTF_scheme.png
+CRTM-8-6R;572093;/assets/inventory/CBTF_scheme.png
+CRTM-8-6R-BRAS;572094;/assets/inventory/CBTF_scheme.png
+CRTM-8-6R-STEL;572095;/assets/inventory/CBTF_scheme.png
+CRTM-8-8R;572096;/assets/inventory/CBTF_scheme.png
+CRTM-8-8R-BRAS;572097;/assets/inventory/CBTF_scheme.png
+CRTM-8-8R-STEL;572098;/assets/inventory/CBTF_scheme.png
+CRTM-10-8R;572099;/assets/inventory/CBTF_scheme.png
+CRTM-10-8R-BRAS;572100;/assets/inventory/CBTF_scheme.png
+CRTM-10-8R-STEL;572101;/assets/inventory/CBTF_scheme.png
+CRTM-12-12R;572102;/assets/inventory/CBTF_scheme.png
+CRTM-12-12R-BRAS;572103;/assets/inventory/CBTF_scheme.png
+CRTM-12-12R-STEL;572104;/assets/inventory/CBTF_scheme.png
+CRTM-3M-2R;572105;/assets/inventory/CBTF_scheme.png
+CRTM-3M-2R-BRAS;572106;/assets/inventory/CBTF_scheme.png
+CRTM-3M-2R-STEL;572107;/assets/inventory/CBTF_scheme.png
+CRTM-3M-4R;572108;/assets/inventory/CBTF_scheme.png
+CRTM-3M-4R-BRAS;572109;/assets/inventory/CBTF_scheme.png
+CRTM-3M-4R-STEL;572110;/assets/inventory/CBTF_scheme.png
+CRTM-4M-2R;572111;/assets/inventory/CBTF_scheme.png
+CRTM-4M-2R-BRAS;572112;/assets/inventory/CBTF_scheme.png
+CRTM-4M-2R-STEL;572113;/assets/inventory/CBTF_scheme.png
+CRTM-6M-2R;572114;/assets/inventory/CBTF_scheme.png
+CRTM-6M-2R-BRAS;572115;/assets/inventory/CBTF_scheme.png
+CRTM-6M-2R-STEL;572116;/assets/inventory/CBTF_scheme.png
+CRTM-6M-4R;572117;/assets/inventory/CBTF_scheme.png
+CRTM-6M-4R-BRAS;572118;/assets/inventory/CBTF_scheme.png
+CRTM-6M-4R-STEL;572119;/assets/inventory/CBTF_scheme.png
+CRTM-8M-2R;572120;/assets/inventory/CBTF_scheme.png
+CRTM-8M-2R-BRAS;572121;/assets/inventory/CBTF_scheme.png
+CRTM-8M-2R-STEL;572122;/assets/inventory/CBTF_scheme.png
+CRTM-8M-4R;572123;/assets/inventory/CBTF_scheme.png
+CRTM-8M-4R-BRAS;572124;/assets/inventory/CBTF_scheme.png
+CRTM-8M-4R-STEL;572125;/assets/inventory/CBTF_scheme.png
+CRTM-10M-4R;572126;/assets/inventory/CBTF_scheme.png
+CRTM-10M-4R-BRAS;572127;/assets/inventory/CBTF_scheme.png
+CRTM-10M-4R-STEL;572128;/assets/inventory/CBTF_scheme.png
+CRTM-10M-6R;572129;/assets/inventory/CBTF_scheme.png
+CRTM-10M-6R-BRAS;572130;/assets/inventory/CBTF_scheme.png
+CRTM-10M-6R-STEL;572131;/assets/inventory/CBTF_scheme.png
+CRTM-12M-4R;572132;/assets/inventory/CBTF_scheme.png
+CRTM-12M-4R-BRAS;572133;/assets/inventory/CBTF_scheme.png
+CRTM-12M-4R-STEL;572134;/assets/inventory/CBTF_scheme.png
+CRTM-12M-6R;572135;/assets/inventory/CBTF_scheme.png
+CRTM-12M-6R-BRAS;572136;/assets/inventory/CBTF_scheme.png
+CRTM-12M-6R-STEL;572137;/assets/inventory/CBTF_scheme.png
+CRTM-12M-8R;572138;/assets/inventory/CBTF_scheme.png
+CRTM-12M-8R-BRAS;572139;/assets/inventory/CBTF_scheme.png
+CRTM-12M-8R-STEL;572140;/assets/inventory/CBTF_scheme.png
+CRTM-16M-6R;572141;/assets/inventory/CBTF_scheme.png
+CRTM-16M-6R-BRAS;572142;/assets/inventory/CBTF_scheme.png
+CRTM-16M-6R-STEL;572143;/assets/inventory/CBTF_scheme.png
+CRTM-16M-8R;572144;/assets/inventory/CBTF_scheme.png
+CRTM-16M-8R-BRAS;572145;/assets/inventory/CBTF_scheme.png
+CRTM-16M-8R-STEL;572146;/assets/inventory/CBTF_scheme.png
+CRTM-20M-12R;572147;/assets/inventory/CBTF_scheme.png
+CRTM-20M-12R-BRAS;572148;/assets/inventory/CBTF_scheme.png
+CRTM-20M-12R-STEL;572149;/assets/inventory/CBTF_scheme.png

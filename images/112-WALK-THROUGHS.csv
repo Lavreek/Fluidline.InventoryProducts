@@ -1,40 +1,40 @@
 code;code_id;image_path
-B1V-H-3M;1822880;/assets/inventory/112 H.jpg
-B1V-H-6M;1822881;/assets/inventory/112 H.jpg
-B2V-H-6M;1822882;/assets/inventory/112 H.jpg
-B2V-H-8M;1822883;/assets/inventory/112 H.jpg
-B3V-H-10M;1822884;/assets/inventory/112 H.jpg
-B4V-H-12M;1822885;/assets/inventory/112 H.jpg
-B4V-H-18M;1822886;/assets/inventory/112 H.jpg
-B1V-H-1T;1822887;/assets/inventory/112 H.jpg
-B1V-H-2T;1822888;/assets/inventory/112 H.jpg
-B1V-H-4T;1822889;/assets/inventory/112 H.jpg
-B2V-H-4T;1822890;/assets/inventory/112 H.jpg
-B2V-H-6T;1822891;/assets/inventory/112 H.jpg
-B3V-H-6T;1822892;/assets/inventory/112 H.jpg
-B4V-H-8T;1822893;/assets/inventory/112 H.jpg
-B4V-H-12T;1822894;/assets/inventory/112 H.jpg
-B1V-F-2N;1822895;/assets/inventory/112 F.jpg
-B1V-F-2R;1822896;/assets/inventory/112 F.jpg
-B2V-F-2N;1822897;/assets/inventory/112 F.jpg
-B2V-F-2R;1822898;/assets/inventory/112 F.jpg
-B2V-F-4N;1822899;/assets/inventory/112 F.jpg
-B2V-F-4R;1822900;/assets/inventory/112 F.jpg
-B3V-F-4N;1822901;/assets/inventory/112 F.jpg
-B3V-F-4R;1822902;/assets/inventory/112 F.jpg
-B3V-F-6N;1822903;/assets/inventory/112 F.jpg
-B3V-F-6R;1822904;/assets/inventory/112 F.jpg
-B4V-F-8N;1822905;/assets/inventory/112 F.jpg
-B4V-F-8R;1822906;/assets/inventory/112 F.jpg
-B2V-M-4N;1822907;assets/images/112_M_s100.jpg
-B2V-M-4R;1822908;assets/images/112_M_s100.jpg
-B1V-H-6M-SAPW;1822909;/assets/inventory/112 H SAPW.jpg
-B2V-H-6M-SAPW;1822910;/assets/inventory/112 H SAPW.jpg
-B2V-H-8M-SAPW;1822911;/assets/inventory/112 H SAPW.jpg
-B3V-H-10M-SAPW;1822912;/assets/inventory/112 H SAPW.jpg
-B4V-H-12M-SAPW;1822913;/assets/inventory/112 H SAPW.jpg
-B1V-H-6M-SAPW-4P;1822914;/assets/inventory/112 H SAPW.jpg
-B2V-H-6M-SAPW-4P;1822915;/assets/inventory/112 H SAPW.jpg
-B2V-H-8M-SAPW-4P;1822916;/assets/inventory/112 H SAPW.jpg
-B3V-H-10M-SAPW-4P;1822917;/assets/inventory/112 H SAPW.jpg
-B4V-H-12M-SAPW-8P;1822918;/assets/inventory/112 H SAPW.jpg
+B1V-H-3M;564000;/assets/inventory/112_H_s100.jpg
+B1V-H-6M;564001;/assets/inventory/112_H_s100.jpg
+B2V-H-6M;564002;/assets/inventory/112_H_s100.jpg
+B2V-H-8M;564003;/assets/inventory/112_H_s100.jpg
+B3V-H-10M;564004;/assets/inventory/112_H_s100.jpg
+B4V-H-12M;564005;/assets/inventory/112_H_s100.jpg
+B4V-H-18M;564006;/assets/inventory/112_H_s100.jpg
+B1V-H-1T;564007;/assets/inventory/112_H_s100.jpg
+B1V-H-2T;564008;/assets/inventory/112_H_s100.jpg
+B1V-H-4T;564009;/assets/inventory/112_H_s100.jpg
+B2V-H-4T;564010;/assets/inventory/112_H_s100.jpg
+B2V-H-6T;564011;/assets/inventory/112_H_s100.jpg
+B3V-H-6T;564012;/assets/inventory/112_H_s100.jpg
+B4V-H-8T;564013;/assets/inventory/112_H_s100.jpg
+B4V-H-12T;564014;/assets/inventory/112_H_s100.jpg
+B1V-F-2N;564015;/assets/inventory/112_F_s100.jpg
+B1V-F-2R;564016;/assets/inventory/112_F_s100.jpg
+B2V-F-2N;564017;/assets/inventory/112_F_s100.jpg
+B2V-F-2R;564018;/assets/inventory/112_F_s100.jpg
+B2V-F-4N;564019;/assets/inventory/112_F_s100.jpg
+B2V-F-4R;564020;/assets/inventory/112_F_s100.jpg
+B3V-F-4N;564021;/assets/inventory/112_F_s100.jpg
+B3V-F-4R;564022;/assets/inventory/112_F_s100.jpg
+B3V-F-6N;564023;/assets/inventory/112_F_s100.jpg
+B3V-F-6R;564024;/assets/inventory/112_F_s100.jpg
+B4V-F-8N;564025;/assets/inventory/112_F_s100.jpg
+B4V-F-8R;564026;/assets/inventory/112_F_s100.jpg
+B2V-M-4N;564027;/assets/inventory/112_M_s100.jpg
+B2V-M-4R;564028;/assets/inventory/112_M_s100.jpg
+B1V-H-6M-SAPW;564029;/assets/inventory/112_H_s100_sapw.jpg
+B2V-H-6M-SAPW;564030;/assets/inventory/112_H_s100_sapw.jpg
+B2V-H-8M-SAPW;564031;/assets/inventory/112_H_s100_sapw.jpg
+B3V-H-10M-SAPW;564032;/assets/inventory/112_H_s100_sapw.jpg
+B4V-H-12M-SAPW;564033;/assets/inventory/112_H_s100_sapw.jpg
+B1V-H-6M-SAPW-4P;564034;/assets/inventory/112_H_s100_sapw.jpg
+B2V-H-6M-SAPW-4P;564035;/assets/inventory/112_H_s100_sapw.jpg
+B2V-H-8M-SAPW-4P;564036;/assets/inventory/112_H_s100_sapw.jpg
+B3V-H-10M-SAPW-4P;564037;/assets/inventory/112_H_s100_sapw.jpg
+B4V-H-12M-SAPW-8P;564038;/assets/inventory/112_H_s100_sapw.jpg

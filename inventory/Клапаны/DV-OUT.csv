@@ -1,7 +1,7 @@
-#,Заказной код,Параметр:Заказной код:Подсоединение,Параметр:Заказной код:Материал корпуса,,
-,DV-VM-4,"VCR-Male 1/4""",VV6L,,
-,DV-VM-4-PC,"VCR-Male 1/4""",VV6L,,
-,DV-VM-4-H,"VCR-Male 1/4""",VV6L,,
-,DV-VM-4-H-PC,"VCR-Male 1/4""",VV6L,,
-,DV-VM-8,"VCR-Male 1/2""",VV6L,,
-,DV-VM-8-H,"VCR-Male 1/2""",VV6L,,
+#,Заказной код,Параметр:Заказной код:Подсоединение,Параметр:Заказной код:Материал корпуса
+,DV-VM-4,"VCR-Male 1/4""",VV6L
+,DV-VM-4-PC,"VCR-Male 1/4""",VV6L
+,DV-VM-4-H,"VCR-Male 1/4""",VV6L
+,DV-VM-4-H-PC,"VCR-Male 1/4""",VV6L
+,DV-VM-8,"VCR-Male 1/2""",VV6L
+,DV-VM-8-H,"VCR-Male 1/2""",VV6L
