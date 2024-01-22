@@ -1,0 +1,17 @@
+{
+    "element" : "input",
+    "block" : {
+        "class" : "mb-3"
+    },
+    "label" : {
+        "class" : "form-label",
+        "innerHTML" : "Цена ( $ )",
+        "for" : "metal_jacket_price"
+    },
+    "value" : "0",
+    "type" : "text",
+    "class" : "form-control",
+    "id" : "metal_jacket_price",
+    "name" : "metal_jacket_price",
+    "readonly" : "true"
+}
