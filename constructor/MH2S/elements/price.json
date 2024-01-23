@@ -1,7 +1,7 @@
 {
     "element" : "input",
     "block" : {
-        "class" : "mb-3"
+        "class" : ""
     },
     "label" : {
         "class" : "form-label",
@@ -13,5 +13,8 @@
     "class" : "form-control",
     "id" : "metal_jacket_price",
     "name" : "metal_jacket_price",
-    "readonly" : "true"
+    "readonly" : "true",
+    "events" : [{
+        "do" : "let price = 0; let priceFix = \"ЦенаFix\"; let priceDynamic = \"ЦенаDyn\"; let priceService = \"ЦенаSer\"; let inputLength = $(\"input[name=metal_jacket_length]\").val(); for (let i = 0; i < item.parameters.length; i++) {let parameter = item.parameters[i]; if (parameter.name === priceFix) {priceFix = parseFloat(parameter.value); } if (parameter.name === priceDynamic) {priceDynamic = parseFloat(parameter.value); } if (parameter.name === priceService) {priceService = parseFloat(parameter.value); } } if (inputLength === undefined) {inputLength = 1000; } else { if (inputLength < 50) { inputLength = 50 } if (inputLength > 100000) { inputLength = 100000 }  } let lenghtForOne = inputLength / 1000; price = (priceFix + (priceDynamic * lenghtForOne)) + priceService; object.setAttribute('value', price.toFixed(2));"
+    }]
 }
