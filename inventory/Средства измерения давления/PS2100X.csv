@@ -1,0 +1,91 @@
+#,Заказной код,Параметр:Заказной код:Подсоединение к процессу,Параметр:Заказной код:Диапазон давления,"Параметр:Заказной код:Детали, контактирующие со средой",Параметр:Заказной код:Микропереключатели,Параметр:Заказной код:Тип взрывозащиты
+,PS2100X-04R-A-1-F-1-A,FNPT 1/2,"0,1-0,8 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-10R-A-1-F-1-A,FNPT 1/2,"0,1-1,1 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-20R-A-1-F-1-A,FNPT 1/2,"0,1-1,4 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-30R-A-1-F-1-A,FNPT 1/2,"0,2-1,9 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-40R-A-1-F-1-A,FNPT 1/2,"0,5-6,9 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-04R-A-1-F-1-B,FNPT 1/2,"0,1-0,8 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-10R-A-1-F-1-B,FNPT 1/2,"0,1-1,1 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-20R-A-1-F-1-B,FNPT 1/2,"0,1-1,4 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-30R-A-1-F-1-B,FNPT 1/2,"0,2-1,9 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-40R-A-1-F-1-B,FNPT 1/2,"0,5-6,9 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-04R-A-1-F-1-C,FNPT 1/2,"0,1-0,8 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-10R-A-1-F-1-C,FNPT 1/2,"0,1-1,1 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-20R-A-1-F-1-C,FNPT 1/2,"0,1-1,4 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-30R-A-1-F-1-C,FNPT 1/2,"0,2-1,9 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-40R-A-1-F-1-C,FNPT 1/2,"0,5-6,9 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-04R-A-1-F-2-A,FNPT 1/2,"0,1-0,8 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-10R-A-1-F-2-A,FNPT 1/2,"0,1-1,1 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-20R-A-1-F-2-A,FNPT 1/2,"0,1-1,4 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-30R-A-1-F-2-A,FNPT 1/2,"0,2-1,9 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-40R-A-1-F-2-A,FNPT 1/2,"0,5-6,9 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-04R-A-1-F-2-B,FNPT 1/2,"0,1-0,8 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-10R-A-1-F-2-B,FNPT 1/2,"0,1-1,1 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-20R-A-1-F-2-B,FNPT 1/2,"0,1-1,4 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-30R-A-1-F-2-B,FNPT 1/2,"0,2-1,9 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-40R-A-1-F-2-B,FNPT 1/2,"0,5-6,9 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-04R-A-1-F-2-C,FNPT 1/2,"0,1-0,8 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-10R-A-1-F-2-C,FNPT 1/2,"0,1-1,1 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-20R-A-1-F-2-C,FNPT 1/2,"0,1-1,4 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-30R-A-1-F-2-C,FNPT 1/2,"0,2-1,9 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-40R-A-1-F-2-C,FNPT 1/2,"0,5-6,9 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-04R-A-2-F-1-A,FNPT 1/4,"0,1-0,8 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-10R-A-2-F-1-A,FNPT 1/4,"0,1-1,1 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-20R-A-2-F-1-A,FNPT 1/4,"0,1-1,4 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-30R-A-2-F-1-A,FNPT 1/4,"0,2-1,9 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-40R-A-2-F-1-A,FNPT 1/4,"0,5-6,9 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-04R-A-2-F-1-B,FNPT 1/4,"0,1-0,8 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-10R-A-2-F-1-B,FNPT 1/4,"0,1-1,1 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-20R-A-2-F-1-B,FNPT 1/4,"0,1-1,4 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-30R-A-2-F-1-B,FNPT 1/4,"0,2-1,9 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-40R-A-2-F-1-B,FNPT 1/4,"0,5-6,9 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-04R-A-2-F-1-C,FNPT 1/4,"0,1-0,8 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-10R-A-2-F-1-C,FNPT 1/4,"0,1-1,1 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-20R-A-2-F-1-C,FNPT 1/4,"0,1-1,4 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-30R-A-2-F-1-C,FNPT 1/4,"0,2-1,9 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-40R-A-2-F-1-C,FNPT 1/4,"0,5-6,9 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-04R-A-2-F-2-A,FNPT 1/4,"0,1-0,8 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-10R-A-2-F-2-A,FNPT 1/4,"0,1-1,1 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-20R-A-2-F-2-A,FNPT 1/4,"0,1-1,4 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-30R-A-2-F-2-A,FNPT 1/4,"0,2-1,9 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-40R-A-2-F-2-A,FNPT 1/4,"0,5-6,9 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-04R-A-2-F-2-B,FNPT 1/4,"0,1-0,8 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-10R-A-2-F-2-B,FNPT 1/4,"0,1-1,1 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-20R-A-2-F-2-B,FNPT 1/4,"0,1-1,4 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-30R-A-2-F-2-B,FNPT 1/4,"0,2-1,9 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-40R-A-2-F-2-B,FNPT 1/4,"0,5-6,9 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-04R-A-2-F-2-C,FNPT 1/4,"0,1-0,8 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-10R-A-2-F-2-C,FNPT 1/4,"0,1-1,1 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-20R-A-2-F-2-C,FNPT 1/4,"0,1-1,4 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-30R-A-2-F-2-C,FNPT 1/4,"0,2-1,9 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-40R-A-2-F-2-C,FNPT 1/4,"0,5-6,9 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-04R-A-M-F-1-A,M20x1.5,"0,1-0,8 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-10R-A-M-F-1-A,M20x1.5,"0,1-1,1 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-20R-A-M-F-1-A,M20x1.5,"0,1-1,4 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-30R-A-M-F-1-A,M20x1.5,"0,2-1,9 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-40R-A-M-F-1-A,M20x1.5,"0,5-6,9 бар",SS316,SPDTx1,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-04R-A-M-F-1-B,M20x1.5,"0,1-0,8 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-10R-A-M-F-1-B,M20x1.5,"0,1-1,1 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-20R-A-M-F-1-B,M20x1.5,"0,1-1,4 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-30R-A-M-F-1-B,M20x1.5,"0,2-1,9 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-40R-A-M-F-1-B,M20x1.5,"0,5-6,9 бар",SS316,SPDTx1,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-04R-A-M-F-1-C,M20x1.5,"0,1-0,8 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-10R-A-M-F-1-C,M20x1.5,"0,1-1,1 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-20R-A-M-F-1-C,M20x1.5,"0,1-1,4 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-30R-A-M-F-1-C,M20x1.5,"0,2-1,9 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-40R-A-M-F-1-C,M20x1.5,"0,5-6,9 бар",SS316,SPDTx1,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-04R-A-M-F-2-A,M20x1.5,"0,1-0,8 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-10R-A-M-F-2-A,M20x1.5,"0,1-1,1 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-20R-A-M-F-2-A,M20x1.5,"0,1-1,4 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-30R-A-M-F-2-A,M20x1.5,"0,2-1,9 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-40R-A-M-F-2-A,M20x1.5,"0,5-6,9 бар",SS316,SPDTx2,"A - Сертификат только на клеммную коробку-Class I, Class II"
+,PS2100X-04R-A-M-F-2-B,M20x1.5,"0,1-0,8 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-10R-A-M-F-2-B,M20x1.5,"0,1-1,1 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-20R-A-M-F-2-B,M20x1.5,"0,1-1,4 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-30R-A-M-F-2-B,M20x1.5,"0,2-1,9 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-40R-A-M-F-2-B,M20x1.5,"0,5-6,9 бар",SS316,SPDTx2,B - EC-Type Examination: ITRl/TAIWAN—Exd MB + H2T6
+,PS2100X-04R-A-M-F-2-C,M20x1.5,"0,1-0,8 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-10R-A-M-F-2-C,M20x1.5,"0,1-1,1 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-20R-A-M-F-2-C,M20x1.5,"0,1-1,4 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-30R-A-M-F-2-C,M20x1.5,"0,2-1,9 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85
+,PS2100X-40R-A-M-F-2-C,M20x1.5,"0,5-6,9 бар",SS316,SPDTx2,C - EC-Type Examination: ATEX-II2 GD Ex d IIB + H2 Gb T6 Ex tb IIIC Db T85

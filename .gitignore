@@ -4,3 +4,10 @@
 ###> Generated files
 *.gen
 *.lock
+
+###> Directories
+
+/serialized
+/locks
+/bigs
+/logs
